@@ -1,0 +1,1077 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="12" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="108" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="112.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="81.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="153"/>
+   <Column ss:Width="117"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">objectid</Data></Cell>
+    <Cell><Data ss:Type="String">nomzac</Data></Cell>
+    <Cell><Data ss:Type="String">surfha</Data></Cell>
+    <Cell><Data ss:Type="String">vocation</Data></Cell>
+    <Cell><Data ss:Type="String">maouvr</Data></Cell>
+    <Cell><Data ss:Type="String">modame</Data></Cell>
+    <Cell><Data ss:Type="String">etape</Data></Cell>
+    <Cell><Data ss:Type="String">nature</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Mail</Data></Cell>
+    <Cell><Data ss:Type="Number">16.159659000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Général de Gaulle</Data></Cell>
+    <Cell><Data ss:Type="Number">9.906091</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Le Champ du Botrel</Data></Cell>
+    <Cell><Data ss:Type="Number">19.984891999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Le Vert Buisson</Data></Cell>
+    <Cell><Data ss:Type="Number">81.338646999999995</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">Les Boschaux</Data></Cell>
+    <Cell><Data ss:Type="Number">23.702821</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Les Champs Bleus</Data></Cell>
+    <Cell><Data ss:Type="Number">62.670811999999998</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">Le Luzard</Data></Cell>
+    <Cell><Data ss:Type="Number">28.479082999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Plaisance - Centre</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8896410000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">Plaisance Centre</Data></Cell>
+    <Cell><Data ss:Type="Number">4.9315870000000004</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">Porte de Nantes</Data></Cell>
+    <Cell><Data ss:Type="Number">15.46491</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String">Les Portes de la Seiche</Data></Cell>
+    <Cell><Data ss:Type="Number">55.610450999999998</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">Baud Chardonnet</Data></Cell>
+    <Cell><Data ss:Type="Number">34.774780999999997</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="String">Coeur de Ville</Data></Cell>
+    <Cell><Data ss:Type="Number">13.501455</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="String">La Conterie</Data></Cell>
+    <Cell><Data ss:Type="Number">16.697174</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="String">Beauregard Quincé</Data></Cell>
+    <Cell><Data ss:Type="Number">27.414199</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell><Data ss:Type="String">Pluvignon</Data></Cell>
+    <Cell><Data ss:Type="Number">36.218781</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="String">Les Fontenelles 2</Data></Cell>
+    <Cell><Data ss:Type="Number">8.2757430000000003</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="String">Centre-ville</Data></Cell>
+    <Cell><Data ss:Type="Number">7.8647729999999996</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">La Besneraie</Data></Cell>
+    <Cell><Data ss:Type="Number">20.549813</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">521</Data></Cell>
+    <Cell><Data ss:Type="String">Botrel1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">526</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En études de création</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">520</Data></Cell>
+    <Cell><Data ss:Type="String">Les Pierrins</Data></Cell>
+    <Cell><Data ss:Type="Number">105.324018</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En projet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">La Morinais</Data></Cell>
+    <Cell><Data ss:Type="Number">179.943759</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">La Trémelière</Data></Cell>
+    <Cell><Data ss:Type="Number">61.860379000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Les Huberdières</Data></Cell>
+    <Cell><Data ss:Type="Number">21.214776000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Les Basses Noës</Data></Cell>
+    <Cell><Data ss:Type="Number">26.531462999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">La Grande Morinais</Data></Cell>
+    <Cell><Data ss:Type="Number">33.491540000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En études de création</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">Centre aux Mares Noires</Data></Cell>
+    <Cell><Data ss:Type="Number">26.699300999999998</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Arsenal</Data></Cell>
+    <Cell><Data ss:Type="Number">13.71773</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String">Les Prairies d'Orgères</Data></Cell>
+    <Cell><Data ss:Type="Number">44.608339000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Patton / La Tauvrais et Iles Chausey</Data></Cell>
+    <Cell><Data ss:Type="Number">13.951453000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">Atalante Champeaux</Data></Cell>
+    <Cell><Data ss:Type="Number">36.250168000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String">Madeleine</Data></Cell>
+    <Cell><Data ss:Type="Number">2.370628</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="String">Normandie Saumurois</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0468320000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="String">La Vigne</Data></Cell>
+    <Cell><Data ss:Type="Number">40.881898</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">La Courrouze</Data></Cell>
+    <Cell><Data ss:Type="Number">113.643294</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="String">Porte de Saint-Malo</Data></Cell>
+    <Cell><Data ss:Type="Number">10.334013000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="String">La Giraudais</Data></Cell>
+    <Cell><Data ss:Type="Number">20.083573000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="String">Les Champs Freslons</Data></Cell>
+    <Cell><Data ss:Type="Number">49.273088000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="String">La Petite Saudrais</Data></Cell>
+    <Cell><Data ss:Type="Number">13.396661</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="String">Maurepas Gayeulles</Data></Cell>
+    <Cell><Data ss:Type="Number">31.211603</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String">Les Cormiers</Data></Cell>
+    <Cell><Data ss:Type="Number">78.898176000000007</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">530</Data></Cell>
+    <Cell><Data ss:Type="String">Le Chemin Neuf</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En études de réalisation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">523</Data></Cell>
+    <Cell><Data ss:Type="String">La Touche</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En études de réalisation</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Les Petits Prés</Data></Cell>
+    <Cell><Data ss:Type="Number">12.714943999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">Alphonse Guérin</Data></Cell>
+    <Cell><Data ss:Type="Number">12.026379</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Clémenceau</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8035800000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">La Timonière</Data></Cell>
+    <Cell><Data ss:Type="Number">46.237127999999998</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">Les Genêts</Data></Cell>
+    <Cell><Data ss:Type="Number">1.868331</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">La Niche aux Oiseaux</Data></Cell>
+    <Cell><Data ss:Type="Number">11.905334</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">Rue de l'Alma</Data></Cell>
+    <Cell><Data ss:Type="Number">3.789679</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Sud-Seiche</Data></Cell>
+    <Cell><Data ss:Type="Number">18.328652000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">Papeteries</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1535449999999998</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Bourg</Data></Cell>
+    <Cell><Data ss:Type="Number">2.571005</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Bourg</Data></Cell>
+    <Cell><Data ss:Type="Number">3.708723</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">Lorient Saint-Brieuc</Data></Cell>
+    <Cell><Data ss:Type="Number">4.611256</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">La Lande</Data></Cell>
+    <Cell><Data ss:Type="Number">44.403894999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">Les Acquêts</Data></Cell>
+    <Cell><Data ss:Type="Number">19.295415999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="String">Blosne Est</Data></Cell>
+    <Cell><Data ss:Type="Number">44.565553999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="String">La Croix du Vivier</Data></Cell>
+    <Cell><Data ss:Type="Number">15.556979</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="String">La Renaudais</Data></Cell>
+    <Cell><Data ss:Type="Number">12.670063000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell><Data ss:Type="String">Placis Verdys / L'Hôtellerie et la Houltais</Data></Cell>
+    <Cell><Data ss:Type="Number">13.40039</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">106</Data></Cell>
+    <Cell><Data ss:Type="String">Landry-Châteaugiron</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8917837000000004</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell><Data ss:Type="String">Orgerblon</Data></Cell>
+    <Cell><Data ss:Type="Number">18.610317999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Intercommunale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">515</Data></Cell>
+    <Cell><Data ss:Type="String">Atalante Viasilva</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Rennes Métropole</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">Ker Lann</Data></Cell>
+    <Cell><Data ss:Type="Number">165.49431300000001</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">Les Petites Haies</Data></Cell>
+    <Cell><Data ss:Type="Number">9.8957890000000006</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">La Forge</Data></Cell>
+    <Cell><Data ss:Type="Number">11.810294000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">531</Data></Cell>
+    <Cell><Data ss:Type="String">Guines</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En études de réalisation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">La Gautrais</Data></Cell>
+    <Cell><Data ss:Type="Number">10.247064999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">Airlande</Data></Cell>
+    <Cell><Data ss:Type="Number">34.861784999999998</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+    <Cell><Data ss:Type="String">Bernard Duval</Data></Cell>
+    <Cell><Data ss:Type="Number">2.734327</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">Les Chaputs</Data></Cell>
+    <Cell><Data ss:Type="Number">18.053694</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">Val de Sermon</Data></Cell>
+    <Cell><Data ss:Type="Number">59.706961999999997</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">Brasserie Saint-Hélier</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5795629999999998</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">La Grée</Data></Cell>
+    <Cell><Data ss:Type="Number">35.883746000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">La Branchère</Data></Cell>
+    <Cell><Data ss:Type="Number">9.8589199999999995</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Armorique</Data></Cell>
+    <Cell><Data ss:Type="Number">13.148094</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Euro Rennes</Data></Cell>
+    <Cell><Data ss:Type="Number">57.769092999999998</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="String">Atalante Villejean</Data></Cell>
+    <Cell><Data ss:Type="Number">12.397399999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String">Beausoleil</Data></Cell>
+    <Cell><Data ss:Type="Number">101.347167</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String">Les Rives du Blosne</Data></Cell>
+    <Cell><Data ss:Type="Number">77.111358999999993</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="String">Busnelais</Data></Cell>
+    <Cell><Data ss:Type="Number">20.000133000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Bourg et Loirie</Data></Cell>
+    <Cell><Data ss:Type="Number">13.538940999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell><Data ss:Type="String">Le Chêne Vert</Data></Cell>
+    <Cell><Data ss:Type="Number">55.265765999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">103</Data></Cell>
+    <Cell><Data ss:Type="String">Ilot de l'Octroi</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1943614600000001</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="String">Le Champ Daguet</Data></Cell>
+    <Cell><Data ss:Type="Number">44.063932999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En études de création</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">Touches</Data></Cell>
+    <Cell><Data ss:Type="Number">82.270771999999994</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Mivoie - Le Vallon</Data></Cell>
+    <Cell><Data ss:Type="Number">62.383901999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Mac Mahon</Data></Cell>
+    <Cell><Data ss:Type="Number">2.2739600000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">L'Ile des Bois</Data></Cell>
+    <Cell><Data ss:Type="Number">51.359955999999997</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="Number">14.947081000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">La Touche</Data></Cell>
+    <Cell><Data ss:Type="Number">50.574457000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="String">La Hautière</Data></Cell>
+    <Cell><Data ss:Type="Number">6.1786339999999997</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">Le Vallon</Data></Cell>
+    <Cell><Data ss:Type="Number">23.462696000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">Beauregard</Data></Cell>
+    <Cell><Data ss:Type="Number">71.953811999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">CPA</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">Vallée de l'Orson</Data></Cell>
+    <Cell><Data ss:Type="Number">30.083392</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="String">Le Hil</Data></Cell>
+    <Cell><Data ss:Type="Number">22.369083</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="String">Les Grands Sillons</Data></Cell>
+    <Cell><Data ss:Type="Number">34.084566000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96</Data></Cell>
+    <Cell><Data ss:Type="String">Le Moulin à Vent</Data></Cell>
+    <Cell><Data ss:Type="Number">55.306989000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell><Data ss:Type="String">Chêne Morand</Data></Cell>
+    <Cell><Data ss:Type="Number">22.942699999999999</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En études de réalisation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">104</Data></Cell>
+    <Cell><Data ss:Type="String">Le Plesse-La Chauffeterie</Data></Cell>
+    <Cell><Data ss:Type="Number">20.09914075</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">105</Data></Cell>
+    <Cell><Data ss:Type="String">Centre/Fontaine Blanche/Bétuaudais</Data></Cell>
+    <Cell><Data ss:Type="Number">19.67806783</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En études de réalisation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">102</Data></Cell>
+    <Cell><Data ss:Type="String">Multi sites Ise</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">Communale</Data></Cell>
+    <Cell><Data ss:Type="String">Régie directe</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">La Touche Tizon</Data></Cell>
+    <Cell><Data ss:Type="Number">40.754235000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String">Bourgbarré Nord</Data></Cell>
+    <Cell><Data ss:Type="Number">42.29665</Data></Cell>
+    <Cell><Data ss:Type="String">Activités</Data></Cell>
+    <Cell><Data ss:Type="String">Métropolitaine</Data></Cell>
+    <Cell><Data ss:Type="String">Concession</Data></Cell>
+    <Cell><Data ss:Type="String">En cours d'aménagement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1331</Data></Cell>
+    <Cell><Data ss:Type="String">Bourg-Clais-Touraudière</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

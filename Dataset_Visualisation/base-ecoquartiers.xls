@@ -1,0 +1,2210 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="12" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet">
+  <Table ss:ExpandedColumnCount="18" ss:ExpandedRowCount="113" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Row ss:Height="15.75" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Nom</Data></Cell>
+    <Cell><Data ss:Type="String">Zonage INSEE</Data></Cell>
+    <Cell><Data ss:Type="String">Commune</Data></Cell>
+    <Cell><Data ss:Type="String">Code INSEE</Data></Cell>
+    <Cell><Data ss:Type="String">Département</Data></Cell>
+    <Cell><Data ss:Type="String">Région</Data></Cell>
+    <Cell><Data ss:Type="String">Contexte_Commune</Data></Cell>
+    <Cell><Data ss:Type="String">Type_Operation</Data></Cell>
+    <Cell><Data ss:Type="String">Type_Operation_Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Vocation</Data></Cell>
+    <Cell><Data ss:Type="String">Superficie(ha)</Data></Cell>
+    <Cell><Data ss:Type="String">Surface_NonBatie</Data></Cell>
+    <Cell><Data ss:Type="String">Habitants</Data></Cell>
+    <Cell><Data ss:Type="String">Logements</Data></Cell>
+    <Cell><Data ss:Type="String">SHON_Logements(m²)</Data></Cell>
+    <Cell><Data ss:Type="String">Logements_Sociaux</Data></Cell>
+    <Cell><Data ss:Type="String">Label Ecoquartier</Data></Cell>
+    <Cell><Data ss:Type="String">Procédure</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC Pajol</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Paris</Data></Cell>
+    <Cell><Data ss:Type="Number">75056</Data></Cell>
+    <Cell><Data ss:Type="String">PARIS (75)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">3,5</Data></Cell>
+    <Cell><Data ss:Type="String">1,34</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier de l'Eau Vive</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Lieusaint</Data></Cell>
+    <Cell><Data ss:Type="Number">77251</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">24,7</Data></Cell>
+    <Cell><Data ss:Type="String">9,6</Data></Cell>
+    <Cell><Data ss:Type="String">3500</Data></Cell>
+    <Cell><Data ss:Type="String">1200</Data></Cell>
+    <Cell><Data ss:Type="Number">77400</Data></Cell>
+    <Cell><Data ss:Type="Number">264</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EcoQuartier Centre Urbain du Val d’Europe</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Serris</Data></Cell>
+    <Cell><Data ss:Type="Number">77449</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Ville nouvelle</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">300</Data></Cell>
+    <Cell><Data ss:Type="String">137,2</Data></Cell>
+    <Cell><Data ss:Type="String">20000</Data></Cell>
+    <Cell><Data ss:Type="String">8500</Data></Cell>
+    <Cell><Data ss:Type="Number">452986</Data></Cell>
+    <Cell><Data ss:Type="Number">1900</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quartier du Val Fourré</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Mantes-la-Jolie</Data></Cell>
+    <Cell><Data ss:Type="Number">78361</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">52</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">9700</Data></Cell>
+    <Cell><Data ss:Type="String">2775</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2331</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Canal / Europe</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Courcouronnes</Data></Cell>
+    <Cell><Data ss:Type="Number">91182</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">16,7</Data></Cell>
+    <Cell><Data ss:Type="String">9,4</Data></Cell>
+    <Cell><Data ss:Type="String">3000</Data></Cell>
+    <Cell><Data ss:Type="String">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">130000</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zac bords de Seine</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Issy-les-Moulineaux</Data></Cell>
+    <Cell><Data ss:Type="Number">92040</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">3,4</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">2100</Data></Cell>
+    <Cell><Data ss:Type="String">700</Data></Cell>
+    <Cell><Data ss:Type="Number">100000</Data></Cell>
+    <Cell><Data ss:Type="Number">175</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Fort d'Issy</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Issy-les-Moulineaux</Data></Cell>
+    <Cell><Data ss:Type="Number">92040</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">12</Data></Cell>
+    <Cell><Data ss:Type="String">6,4</Data></Cell>
+    <Cell><Data ss:Type="String">4500</Data></Cell>
+    <Cell><Data ss:Type="String">1610</Data></Cell>
+    <Cell><Data ss:Type="Number">103243</Data></Cell>
+    <Cell><Data ss:Type="Number">301</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis d'aménager</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier Eiffel-Molette</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Le Blanc-Mesnil</Data></Cell>
+    <Cell><Data ss:Type="Number">93007</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">48</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="Number">94000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Reconversion de la friche Westinghouse</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Sevran</Data></Cell>
+    <Cell><Data ss:Type="Number">93071</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">3,5</Data></Cell>
+    <Cell><Data ss:Type="String">1,1</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">500</Data></Cell>
+    <Cell><Data ss:Type="Number">37000</Data></Cell>
+    <Cell><Data ss:Type="Number">230</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Portes d'Orly</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Chevilly-Larue</Data></Cell>
+    <Cell><Data ss:Type="Number">94021</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">10,5</Data></Cell>
+    <Cell><Data ss:Type="String">3,64</Data></Cell>
+    <Cell><Data ss:Type="String">2370</Data></Cell>
+    <Cell><Data ss:Type="String">1320</Data></Cell>
+    <Cell><Data ss:Type="Number">74400</Data></Cell>
+    <Cell><Data ss:Type="Number">758</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cancer Campus Val de Bievre</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Villejuif</Data></Cell>
+    <Cell><Data ss:Type="Number">94076</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">98</Data></Cell>
+    <Cell><Data ss:Type="String">32</Data></Cell>
+    <Cell><Data ss:Type="String">18000</Data></Cell>
+    <Cell><Data ss:Type="String">2500</Data></Cell>
+    <Cell><Data ss:Type="Number">300000</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Les Perruchets</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Auvers-sur-Oise</Data></Cell>
+    <Cell><Data ss:Type="Number">95039</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">4</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">200</Data></Cell>
+    <Cell><Data ss:Type="String">90</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier zac coeur de ville</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bezons</Data></Cell>
+    <Cell><Data ss:Type="Number">95063</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">14</Data></Cell>
+    <Cell><Data ss:Type="String">5,3</Data></Cell>
+    <Cell><Data ss:Type="String">2400</Data></Cell>
+    <Cell><Data ss:Type="String">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">72000</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Projet de rénovation urbaine Derrière-les-Murs –de-Monseigneur - Cerisaie</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Villiers-le-Bel</Data></Cell>
+    <Cell><Data ss:Type="Number">95680</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">33</Data></Cell>
+    <Cell><Data ss:Type="String">13</Data></Cell>
+    <Cell><Data ss:Type="String">7240</Data></Cell>
+    <Cell><Data ss:Type="String">2407</Data></Cell>
+    <Cell><Data ss:Type="Number">156890</Data></Cell>
+    <Cell><Data ss:Type="Number">1221</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Claude Bernard</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Paris</Data></Cell>
+    <Cell><Data ss:Type="Number">75056</Data></Cell>
+    <Cell><Data ss:Type="String">PARIS (75)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">14,6</Data></Cell>
+    <Cell><Data ss:Type="String">6,5</Data></Cell>
+    <Cell><Data ss:Type="String">1200</Data></Cell>
+    <Cell><Data ss:Type="String">475</Data></Cell>
+    <Cell><Data ss:Type="Number">40000</Data></Cell>
+    <Cell><Data ss:Type="Number">237</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Test Les Grands Voisins</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Paris</Data></Cell>
+    <Cell><Data ss:Type="Number">75056</Data></Cell>
+    <Cell><Data ss:Type="String">PARIS (75)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">3,4</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier Foch-Roosevelt</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Meaux</Data></Cell>
+    <Cell><Data ss:Type="Number">77284</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">80</Data></Cell>
+    <Cell><Data ss:Type="String">24</Data></Cell>
+    <Cell><Data ss:Type="String">6000</Data></Cell>
+    <Cell><Data ss:Type="String">2500</Data></Cell>
+    <Cell><Data ss:Type="Number">157000</Data></Cell>
+    <Cell><Data ss:Type="Number">625</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Boucle de Chanteloup</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Carrières-sous-Poissy</Data></Cell>
+    <Cell><Data ss:Type="Number">78123</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Projet d'ensemble concernant opérations urbaines, économique, agricole et paysagère</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">3500</Data></Cell>
+    <Cell><Data ss:Type="Number">288500</Data></Cell>
+    <Cell><Data ss:Type="Number">805</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lisière Péreire</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Saint-Germain-en-Laye</Data></Cell>
+    <Cell><Data ss:Type="Number">78551</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">9,87</Data></Cell>
+    <Cell><Data ss:Type="String">6,4</Data></Cell>
+    <Cell><Data ss:Type="String">1690</Data></Cell>
+    <Cell><Data ss:Type="String">723</Data></Cell>
+    <Cell><Data ss:Type="Number">28000</Data></Cell>
+    <Cell><Data ss:Type="Number">370</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Le parc d'Angerville</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Angerville</Data></Cell>
+    <Cell><Data ss:Type="Number">91016</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">30</Data></Cell>
+    <Cell><Data ss:Type="String">8,5</Data></Cell>
+    <Cell><Data ss:Type="String">1000</Data></Cell>
+    <Cell><Data ss:Type="String">306</Data></Cell>
+    <Cell><Data ss:Type="Number">55000</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zac Plm Bois-Colombes</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bois-Colombes</Data></Cell>
+    <Cell><Data ss:Type="Number">92009</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">5,2</Data></Cell>
+    <Cell><Data ss:Type="String">2,1</Data></Cell>
+    <Cell><Data ss:Type="String">2400</Data></Cell>
+    <Cell><Data ss:Type="String">1100</Data></Cell>
+    <Cell><Data ss:Type="Number">63570</Data></Cell>
+    <Cell><Data ss:Type="Number">277</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Plaine de L'ourcq : quartier durable</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Noisy-le-Sec</Data></Cell>
+    <Cell><Data ss:Type="Number">93053</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">35</Data></Cell>
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String">3700</Data></Cell>
+    <Cell><Data ss:Type="String">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">75000</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartiers RN7 porte d'Orly</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Chevilly-Larue</Data></Cell>
+    <Cell><Data ss:Type="Number">94021</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">1984</Data></Cell>
+    <Cell><Data ss:Type="Number">122000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">La Mache-Prunelle</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Ormesson-sur-Marne</Data></Cell>
+    <Cell><Data ss:Type="Number">94055</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">0,38</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">16</Data></Cell>
+    <Cell><Data ss:Type="Number">1471</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EcoQuartier du centre ville de Fosses</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Fosses</Data></Cell>
+    <Cell><Data ss:Type="Number">95250</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">6,7</Data></Cell>
+    <Cell><Data ss:Type="String">2,8</Data></Cell>
+    <Cell><Data ss:Type="String">1200</Data></Cell>
+    <Cell><Data ss:Type="String">563</Data></Cell>
+    <Cell><Data ss:Type="Number">22078</Data></Cell>
+    <Cell><Data ss:Type="Number">389</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BOUCICAUT</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Paris</Data></Cell>
+    <Cell><Data ss:Type="Number">75056</Data></Cell>
+    <Cell><Data ss:Type="String">PARIS (75)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">0,81</Data></Cell>
+    <Cell><Data ss:Type="String">1300</Data></Cell>
+    <Cell><Data ss:Type="String">514</Data></Cell>
+    <Cell><Data ss:Type="Number">38295</Data></Cell>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sqyes</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Montigny-le-Bretonneux</Data></Cell>
+    <Cell><Data ss:Type="Number">78423</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">300</Data></Cell>
+    <Cell><Data ss:Type="String">27</Data></Cell>
+    <Cell><Data ss:Type="String">28000</Data></Cell>
+    <Cell><Data ss:Type="String">1500</Data></Cell>
+    <Cell><Data ss:Type="Number">120000</Data></Cell>
+    <Cell><Data ss:Type="Number">700</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier Victor Hugo</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bagneux</Data></Cell>
+    <Cell><Data ss:Type="Number">92007</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">19</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">6000</Data></Cell>
+    <Cell><Data ss:Type="String">1100</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Les chemins Mtitry-Princet</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Aulnay-sous-Bois</Data></Cell>
+    <Cell><Data ss:Type="Number">93005</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">26</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">1500</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bel Air - Grands Pêchers</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Montreuil</Data></Cell>
+    <Cell><Data ss:Type="Number">93048</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">41</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">7000</Data></Cell>
+    <Cell><Data ss:Type="String">2500</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Les Hauts de Montreuil</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Montreuil</Data></Cell>
+    <Cell><Data ss:Type="Number">93048</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">200</Data></Cell>
+    <Cell><Data ss:Type="String">6,33</Data></Cell>
+    <Cell><Data ss:Type="String">31600</Data></Cell>
+    <Cell><Data ss:Type="String">3000</Data></Cell>
+    <Cell><Data ss:Type="Number">74500</Data></Cell>
+    <Cell><Data ss:Type="Number">1160</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Requalification centre ville PNRQAD</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Villeneuve-Saint-Georges</Data></Cell>
+    <Cell><Data ss:Type="Number">94078</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">3,5</Data></Cell>
+    <Cell><Data ss:Type="String">1,5</Data></Cell>
+    <Cell><Data ss:Type="String">1100</Data></Cell>
+    <Cell><Data ss:Type="String">460</Data></Cell>
+    <Cell><Data ss:Type="Number">34500</Data></Cell>
+    <Cell><Data ss:Type="Number">215</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">L'écoquartier des Yèbles de Changis</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Avon</Data></Cell>
+    <Cell><Data ss:Type="Number">77014</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">2,4</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">1000</Data></Cell>
+    <Cell><Data ss:Type="String">300</Data></Cell>
+    <Cell><Data ss:Type="Number">20200</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">La Reconquête des Bords de Seine</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Saint-Fargeau-Ponthierry</Data></Cell>
+    <Cell><Data ss:Type="Number">77407</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">16</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">700</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier fluvial de Mantes-la-Jolie et Rosny sur Seine</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Mantes-la-Jolie</Data></Cell>
+    <Cell><Data ss:Type="Number">78361</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">220</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Îlot Mairie</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bures-sur-Yvette</Data></Cell>
+    <Cell><Data ss:Type="Number">91122</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">400</Data></Cell>
+    <Cell><Data ss:Type="String">140</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC_MOULON</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Gif-sur-Yvette</Data></Cell>
+    <Cell><Data ss:Type="Number">91272</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">- Actions sur le bâti existant, - Réaménagement de l’espace urbanisé existant  -Extension urbaines    Le projet intervient sur l’existant pour le réhabiliter, et réalise une partie du quartier en extension urbaine afin de le rendre plus fonctionnel. En restructurant le tissu urbain aujourd’hui fragmenté, ce projet d’aménagement doit permettre de développer le projet scientifique et urbain (arrivée d’établissement d’enseignement supérieur et de recherches, activités économiques) et d’améliorer le cadre de vie des étudiants, salariés et habitants présents et à venir en créant, des logements, des pôles de services, commerces, restauration qui seront de véritables lieux de vie. Mieux relié à la vallée et au reste du plateau par les transports en commun et des modes innovants de déplacement, caractérisé par des espaces publics de qualité, ce quartier s’inscrira dans son environnement urbain et naturel proche en s’articulant avec les villes existantes, le site de l’université dans la vallée, le quartier en devenir de Corbeville, le site du CEA ou encore du quartier de l’Ecole polytechnique.</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">337</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">9600</Data></Cell>
+    <Cell><Data ss:Type="String">5150</Data></Cell>
+    <Cell><Data ss:Type="Number">270000</Data></Cell>
+    <Cell><Data ss:Type="Number">2480</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Clé de Saint Pierre</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Saint-Pierre-du-Perray</Data></Cell>
+    <Cell><Data ss:Type="Number">91573</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">58</Data></Cell>
+    <Cell><Data ss:Type="String">27</Data></Cell>
+    <Cell><Data ss:Type="String">4000</Data></Cell>
+    <Cell><Data ss:Type="String">1500</Data></Cell>
+    <Cell><Data ss:Type="Number">101000</Data></Cell>
+    <Cell><Data ss:Type="Number">375</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">L'axe Gallieni / la Noue</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bagnolet</Data></Cell>
+    <Cell><Data ss:Type="Number">93006</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">70</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">7000</Data></Cell>
+    <Cell><Data ss:Type="String">779</Data></Cell>
+    <Cell><Data ss:Type="Number">23900</Data></Cell>
+    <Cell><Data ss:Type="Number">272</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Les Tartres Sud</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Pierrefitte-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">93059</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">33</Data></Cell>
+    <Cell><Data ss:Type="String">29</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">2270</Data></Cell>
+    <Cell><Data ss:Type="Number">150000</Data></Cell>
+    <Cell><Data ss:Type="Number">430</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quartier Vallès</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Pierrefitte-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">93059</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">36</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">6500</Data></Cell>
+    <Cell><Data ss:Type="String">2500</Data></Cell>
+    <Cell><Data ss:Type="Number">192330</Data></Cell>
+    <Cell><Data ss:Type="Number">750</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier Guitel</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Le Pré-Saint-Gervais</Data></Cell>
+    <Cell><Data ss:Type="Number">93061</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">240</Data></Cell>
+    <Cell><Data ss:Type="Number">18050</Data></Cell>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zac Entrée de ville Paul Hochart</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">L'Haÿ-les-Roses</Data></Cell>
+    <Cell><Data ss:Type="Number">94038</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">4</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">1875</Data></Cell>
+    <Cell><Data ss:Type="String">750</Data></Cell>
+    <Cell><Data ss:Type="Number">35000</Data></Cell>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IVRY_ZAC_DU_PLATEAU</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Ivry-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">94041</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">8</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">3300</Data></Cell>
+    <Cell><Data ss:Type="String">1100</Data></Cell>
+    <Cell><Data ss:Type="Number">75000</Data></Cell>
+    <Cell><Data ss:Type="Number">550</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ponceau</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Cergy</Data></Cell>
+    <Cell><Data ss:Type="Number">95127</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">1300</Data></Cell>
+    <Cell><Data ss:Type="String">549</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">). Les nouvelles constructions se répartissent entre petit collectif (R+4 maximum avec quelques émergences ponctuelles en R+5) et individuel groupé. Le coefficient d'occupation des sols bas, laisse une large part des îlots résidentiels créés au végétal.</Data></Cell>
+    <Cell><Data ss:Type="String">72</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">100% des bâtiments sont THPE 3 bâtiments BBC à titre expérimental Tous les bâtiments réhabilités sont certifiés 'habitat et environnement'</Data></Cell>
+    <Cell><Data ss:Type="String">OUI</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">- AMO: OPCU (Ordonnancement, Pilotage et Coordination Urbaine) : COTEBA Management - Architecte urbaniste en chef : Michel GUERIN</Data></Cell>
+    <Cell><Data ss:Type="String">- Partenaires locaux : Directeur de projet à l'échelle des trois projets ANRU de la ville : DGA en charge du service développement Chef de projet : réalisation des opérations physiques Agent de développement local : concertation et appui aux initiatives des habitants, associations et partenaires de proximité Agent de gestion urbaine de proximité (GUP) : amélioration de la gestion et suivi quotidien de la gestion des chantiers autant sur le domaine public que privé  - Démarches de concertation, participation citoyenne : Réunions publiques réunissant près de 100 habitants à chaque séance Un atelier d'urbanisme mené par la ville et l'AFTRP. Cette démarche a réuni cinq adultes mais également cinq enfants afin d'utiliser leur « compétence d'usager ». Ateliers de concertation menés par des bailleurs autour de projets de réhabilitation et de résidentialisation. Un projet compte en moyenne deux réunions publiques avec l'ensemble des habitants concernés, et deux réunions de travail avec les 4 ou 5 locataires relais.  - Lieux et outils de communication : Maison du projet : lieu d'information au cœur du quartier Lettre d'information municipale trimestrielle Réalisation d'une maquette numérique en 3D à destination des habitants lors des présentations Réalisation de documents audiovisuels supports de la mémoire du quartier Réunions d'information à différentes échelles</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Garges-lès-Gonesse Aménageur: AFTRP</Data></Cell>
+    <Cell><Data ss:Type="String">I3F, OSICA, Ville de Garges-lès-Gonesse, La Foncière, Nexity, Expansiel, Promogim, ICADE, Infinim</Data></Cell>
+    <Cell><Data ss:Type="String">Deux prestations de MOUS (Maîtrise d'oeuvre Urbaine et Sociale) : Cabinet LE FRESNE et HER</Data></Cell>
+    <Cell><Data ss:Type="String">voir : concertation</Data></Cell>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell ss:Index="17"><Data ss:Type="String">ABSENT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EcoQuartier le Sycomore</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bussy-Saint-Georges</Data></Cell>
+    <Cell><Data ss:Type="Number">77058</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">117,3</Data></Cell>
+    <Cell><Data ss:Type="String">46,4</Data></Cell>
+    <Cell><Data ss:Type="String">12150</Data></Cell>
+    <Cell><Data ss:Type="String">4582</Data></Cell>
+    <Cell><Data ss:Type="Number">313583</Data></Cell>
+    <Cell><Data ss:Type="Number">1537</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Les bords d'eau</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Montereau-Fault-Yonne</Data></Cell>
+    <Cell><Data ss:Type="Number">77305</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">20</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">1500</Data></Cell>
+    <Cell><Data ss:Type="String">650</Data></Cell>
+    <Cell><Data ss:Type="Number">62650</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CANDIDAT_LABEL_L'ancre de Lune</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Trilport</Data></Cell>
+    <Cell><Data ss:Type="Number">77475</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String">3,6</Data></Cell>
+    <Cell><Data ss:Type="String">1200</Data></Cell>
+    <Cell><Data ss:Type="String">529</Data></Cell>
+    <Cell><Data ss:Type="Number">45600</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PRU Les Mureaux</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Les Mureaux</Data></Cell>
+    <Cell><Data ss:Type="Number">78440</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">70</Data></Cell>
+    <Cell><Data ss:Type="String">25</Data></Cell>
+    <Cell><Data ss:Type="String">14000</Data></Cell>
+    <Cell><Data ss:Type="String">3661</Data></Cell>
+    <Cell><Data ss:Type="Number">260000</Data></Cell>
+    <Cell><Data ss:Type="Number">3318</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Les Ardoines : Seine Gare Vitry et Gare Ardoines</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Vitry-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">94081</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">90</Data></Cell>
+    <Cell><Data ss:Type="String">20,84</Data></Cell>
+    <Cell><Data ss:Type="String">8300</Data></Cell>
+    <Cell><Data ss:Type="String">3400</Data></Cell>
+    <Cell><Data ss:Type="Number">272000</Data></Cell>
+    <Cell><Data ss:Type="Number">1360</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC_EcoQuartier de Coupvray</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Coupvray</Data></Cell>
+    <Cell><Data ss:Type="Number">77132</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Ville nouvelle</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">126,5</Data></Cell>
+    <Cell><Data ss:Type="String">63,7</Data></Cell>
+    <Cell><Data ss:Type="String">6000</Data></Cell>
+    <Cell><Data ss:Type="String">2400</Data></Cell>
+    <Cell><Data ss:Type="Number">231285</Data></Cell>
+    <Cell><Data ss:Type="Number">1046</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quartier Durable Poissy - Secteur Saint-Sebastien</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Poissy</Data></Cell>
+    <Cell><Data ss:Type="Number">78498</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">13</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">4200</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">146000</Data></Cell>
+    <Cell><Data ss:Type="Number">450</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quartier de la Montagne des Glaises</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Corbeil-Essonnes</Data></Cell>
+    <Cell><Data ss:Type="Number">91174</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String">7</Data></Cell>
+    <Cell><Data ss:Type="String">1725</Data></Cell>
+    <Cell><Data ss:Type="String">750</Data></Cell>
+    <Cell><Data ss:Type="Number">61000</Data></Cell>
+    <Cell><Data ss:Type="Number">170</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Seguin Rives de Seine</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Boulogne-Billancourt</Data></Cell>
+    <Cell><Data ss:Type="Number">92012</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">64</Data></Cell>
+    <Cell><Data ss:Type="String">33</Data></Cell>
+    <Cell><Data ss:Type="String">14000</Data></Cell>
+    <Cell><Data ss:Type="String">7100</Data></Cell>
+    <Cell><Data ss:Type="Number">394300</Data></Cell>
+    <Cell><Data ss:Type="Number">1980</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Le fort d'Aubervilliers</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Aubervilliers</Data></Cell>
+    <Cell><Data ss:Type="Number">93001</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">33</Data></Cell>
+    <Cell><Data ss:Type="String">30</Data></Cell>
+    <Cell><Data ss:Type="String">4000</Data></Cell>
+    <Cell><Data ss:Type="String">1400</Data></Cell>
+    <Cell><Data ss:Type="Number">114500</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quartier Gare Confluence</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Saint-Denis</Data></Cell>
+    <Cell><Data ss:Type="Number">93066</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">69</Data></Cell>
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String">6500</Data></Cell>
+    <Cell><Data ss:Type="String">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">80000</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lotissement Parc Ilonia</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Stains</Data></Cell>
+    <Cell><Data ss:Type="Number">93072</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">1,58</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">346</Data></Cell>
+    <Cell><Data ss:Type="Number">15454</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis d'aménager</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bord de l'eau</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Villeneuve-le-Roi</Data></Cell>
+    <Cell><Data ss:Type="Number">94077</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">20</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">4500</Data></Cell>
+    <Cell><Data ss:Type="String">1260</Data></Cell>
+    <Cell><Data ss:Type="Number">13640</Data></Cell>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Le Val Joli</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Eaubonne</Data></Cell>
+    <Cell><Data ss:Type="Number">95203</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">5,3</Data></Cell>
+    <Cell><Data ss:Type="String">3,9</Data></Cell>
+    <Cell><Data ss:Type="String">550</Data></Cell>
+    <Cell><Data ss:Type="String">180</Data></Cell>
+    <Cell><Data ss:Type="Number">15277</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis d'aménager</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier Mairie Gare</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Éragny</Data></Cell>
+    <Cell><Data ss:Type="Number">95218</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">1200</Data></Cell>
+    <Cell><Data ss:Type="String">480</Data></Cell>
+    <Cell><Data ss:Type="Number">24371</Data></Cell>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier de Louvres et Puiseux-en-France</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Louvres</Data></Cell>
+    <Cell><Data ss:Type="Number">95351</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">82</Data></Cell>
+    <Cell><Data ss:Type="String">32,39</Data></Cell>
+    <Cell><Data ss:Type="String">9000</Data></Cell>
+    <Cell><Data ss:Type="String">3340</Data></Cell>
+    <Cell><Data ss:Type="Number">270750</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Fréquel-Fontarabie</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Paris</Data></Cell>
+    <Cell><Data ss:Type="Number">75056</Data></Cell>
+    <Cell><Data ss:Type="String">PARIS (75)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">0,23</Data></Cell>
+    <Cell><Data ss:Type="String">300</Data></Cell>
+    <Cell><Data ss:Type="String">106</Data></Cell>
+    <Cell><Data ss:Type="Number">9150</Data></Cell>
+    <Cell><Data ss:Type="Number">106</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">Permis d'aménager</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zac Ecoquartier Castermant</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Chelles</Data></Cell>
+    <Cell><Data ss:Type="Number">77108</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String">5,9</Data></Cell>
+    <Cell><Data ss:Type="String">1200</Data></Cell>
+    <Cell><Data ss:Type="String">600</Data></Cell>
+    <Cell><Data ss:Type="Number">48000</Data></Cell>
+    <Cell><Data ss:Type="Number">210</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Le Coin du Chêne</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Buchelay</Data></Cell>
+    <Cell><Data ss:Type="Number">78118</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">13</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Massy Atlantis</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Massy</Data></Cell>
+    <Cell><Data ss:Type="Number">91377</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">104</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">9600</Data></Cell>
+    <Cell><Data ss:Type="String">3900</Data></Cell>
+    <Cell><Data ss:Type="Number">318000</Data></Cell>
+    <Cell><Data ss:Type="Number">820</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier du lycée Camille Claudel</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Palaiseau</Data></Cell>
+    <Cell><Data ss:Type="Number">91477</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">22</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">140000</Data></Cell>
+    <Cell><Data ss:Type="Number">850</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis d'aménager</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quartier Eiffel</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Levallois-Perret</Data></Cell>
+    <Cell><Data ss:Type="Number">92044</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC de réhabilitation en site occupé</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">10,4</Data></Cell>
+    <Cell><Data ss:Type="String">4,59</Data></Cell>
+    <Cell><Data ss:Type="String">4000</Data></Cell>
+    <Cell><Data ss:Type="String">1784</Data></Cell>
+    <Cell><Data ss:Type="Number">101595</Data></Cell>
+    <Cell><Data ss:Type="Number">1343</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Eco-quartier Hoche</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Nanterre</Data></Cell>
+    <Cell><Data ss:Type="Number">92050</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Reconversion de friches urbaines, extension, couture urbaine  : En tant qu’espace déjà urbanisé il est une zone de densification préférentielle, présentant à la fois un potentiel de mutabilité et de constructions nouvelles. Mais il côtoie aussi la volonté de créer ou renforcer dans le secteur une liaison verte reliant Paris aux rives de la Seine. Le quartier est inséré dans un nœud d’infrastructures d’échelle régionale.</Data></Cell>
+    <Cell><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">5,4</Data></Cell>
+    <Cell><Data ss:Type="String">1,4</Data></Cell>
+    <Cell><Data ss:Type="String">1800</Data></Cell>
+    <Cell><Data ss:Type="String">633</Data></Cell>
+    <Cell><Data ss:Type="Number">49000</Data></Cell>
+    <Cell><Data ss:Type="Number">249</Data></Cell>
+    <Cell><Data ss:Type="String">Labellisé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CANDIDAT_LABEL_Ecoquartier des Bergères</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Puteaux</Data></Cell>
+    <Cell><Data ss:Type="Number">92062</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">11</Data></Cell>
+    <Cell><Data ss:Type="String">6</Data></Cell>
+    <Cell><Data ss:Type="String">4500</Data></Cell>
+    <Cell><Data ss:Type="String">2200</Data></Cell>
+    <Cell><Data ss:Type="Number">146650</Data></Cell>
+    <Cell><Data ss:Type="Number">440</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CANDIDAT_LABEL_Ecoquartier l'Arsenal</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Rueil-Malmaison</Data></Cell>
+    <Cell><Data ss:Type="Number">92063</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Ecoquartier</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">25,8</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">5500</Data></Cell>
+    <Cell><Data ss:Type="String">2500</Data></Cell>
+    <Cell><Data ss:Type="Number">190000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecocité - Canal de L'ourcq</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bobigny</Data></Cell>
+    <Cell><Data ss:Type="Number">93008</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">20</Data></Cell>
+    <Cell><Data ss:Type="String">9</Data></Cell>
+    <Cell><Data ss:Type="String">3500</Data></Cell>
+    <Cell><Data ss:Type="String">1200</Data></Cell>
+    <Cell><Data ss:Type="Number">100000</Data></Cell>
+    <Cell><Data ss:Type="Number">360</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">L'écoquartier fluvial de l'Ile-Saint-Denis</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">L'Île-Saint-Denis</Data></Cell>
+    <Cell><Data ss:Type="Number">93039</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">22</Data></Cell>
+    <Cell><Data ss:Type="String">7,6</Data></Cell>
+    <Cell><Data ss:Type="String">2800</Data></Cell>
+    <Cell><Data ss:Type="String">1365</Data></Cell>
+    <Cell><Data ss:Type="Number">107200</Data></Cell>
+    <Cell><Data ss:Type="Number">360</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier gare de Pantin</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Pantin</Data></Cell>
+    <Cell><Data ss:Type="Number">93055</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">35</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC Seine Gare Vitry</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Vitry-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">94081</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">37</Data></Cell>
+    <Cell><Data ss:Type="String">17</Data></Cell>
+    <Cell><Data ss:Type="String">8933</Data></Cell>
+    <Cell><Data ss:Type="String">3573</Data></Cell>
+    <Cell><Data ss:Type="Number">250055</Data></Cell>
+    <Cell><Data ss:Type="Number">1429</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Claude Bernard Macdonald</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Paris</Data></Cell>
+    <Cell><Data ss:Type="Number">75056</Data></Cell>
+    <Cell><Data ss:Type="String">PARIS (75)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">42</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">4000</Data></Cell>
+    <Cell><Data ss:Type="String">1575</Data></Cell>
+    <Cell><Data ss:Type="Number">108500</Data></Cell>
+    <Cell><Data ss:Type="Number">865</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CANDIDAT_LABEL_CLICHY-BATIGNOLLES</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Paris</Data></Cell>
+    <Cell><Data ss:Type="Number">75056</Data></Cell>
+    <Cell><Data ss:Type="String">PARIS (75)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">50</Data></Cell>
+    <Cell><Data ss:Type="String">23</Data></Cell>
+    <Cell><Data ss:Type="String">6500</Data></Cell>
+    <Cell><Data ss:Type="String">3100</Data></Cell>
+    <Cell><Data ss:Type="Number">204000</Data></Cell>
+    <Cell><Data ss:Type="Number">1640</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier plaine de Montaigu</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Melun</Data></Cell>
+    <Cell><Data ss:Type="Number">77288</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">54,6</Data></Cell>
+    <Cell><Data ss:Type="String">11,4</Data></Cell>
+    <Cell><Data ss:Type="String">7000</Data></Cell>
+    <Cell><Data ss:Type="String">2505</Data></Cell>
+    <Cell><Data ss:Type="Number">194747</Data></Cell>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier du balory à vert saint denis</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Vert-Saint-Denis</Data></Cell>
+    <Cell><Data ss:Type="Number">77495</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Ville nouvelle</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">30,3</Data></Cell>
+    <Cell><Data ss:Type="String">13,7</Data></Cell>
+    <Cell><Data ss:Type="String">1270</Data></Cell>
+    <Cell><Data ss:Type="String">470</Data></Cell>
+    <Cell><Data ss:Type="Number">31770</Data></Cell>
+    <Cell><Data ss:Type="Number">154</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Impasse Anne Franck</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Vert-Saint-Denis</Data></Cell>
+    <Cell><Data ss:Type="Number">77495</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">0,41</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">19</Data></Cell>
+    <Cell><Data ss:Type="Number">1418</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC_Coeur_de_ville</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Bonnières-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">78089</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">4,4</Data></Cell>
+    <Cell><Data ss:Type="String">2,32</Data></Cell>
+    <Cell><Data ss:Type="String">630</Data></Cell>
+    <Cell><Data ss:Type="String">260</Data></Cell>
+    <Cell><Data ss:Type="Number">17000</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Champs-Droux et Violettes</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Mareil-Marly</Data></Cell>
+    <Cell><Data ss:Type="Number">78367</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">25</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">800</Data></Cell>
+    <Cell><Data ss:Type="String">340</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier les Profils</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Les Mureaux</Data></Cell>
+    <Cell><Data ss:Type="Number">78440</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">33</Data></Cell>
+    <Cell><Data ss:Type="String">7</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">800</Data></Cell>
+    <Cell><Data ss:Type="Number">58362</Data></Cell>
+    <Cell><Data ss:Type="Number">368</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Projet Urbain Louvois</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Vélizy-Villacoublay</Data></Cell>
+    <Cell><Data ss:Type="Number">78640</Data></Cell>
+    <Cell><Data ss:Type="String">YVELINES (78)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">600</Data></Cell>
+    <Cell><Data ss:Type="String">260</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Projet &quot;coeur de ville&quot; - Limours</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Limours</Data></Cell>
+    <Cell><Data ss:Type="Number">91338</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">5,3</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">150</Data></Cell>
+    <Cell><Data ss:Type="String">90</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MAISSE</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à la couronne d'un grand pôle</Data></Cell>
+    <Cell><Data ss:Type="String">Maisse</Data></Cell>
+    <Cell><Data ss:Type="Number">91359</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">0,27</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">45</Data></Cell>
+    <Cell><Data ss:Type="String">16</Data></Cell>
+    <Cell><Data ss:Type="Number">1050</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Projet urbain quartier nord</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bagneux</Data></Cell>
+    <Cell><Data ss:Type="Number">92007</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">40</Data></Cell>
+    <Cell><Data ss:Type="String">8,1</Data></Cell>
+    <Cell><Data ss:Type="String">14000</Data></Cell>
+    <Cell><Data ss:Type="String">2100</Data></Cell>
+    <Cell><Data ss:Type="Number">121000</Data></Cell>
+    <Cell><Data ss:Type="Number">420</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC du Bac d'Asnières</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Clichy</Data></Cell>
+    <Cell><Data ss:Type="Number">92024</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">20</Data></Cell>
+    <Cell><Data ss:Type="String">8,63</Data></Cell>
+    <Cell><Data ss:Type="String">3170</Data></Cell>
+    <Cell><Data ss:Type="String">850</Data></Cell>
+    <Cell><Data ss:Type="Number">66000</Data></Cell>
+    <Cell><Data ss:Type="Number">510</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Résidence Jeanne Hornet</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bagnolet</Data></Cell>
+    <Cell><Data ss:Type="Number">93006</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">1,99</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">35</Data></Cell>
+    <Cell><Data ss:Type="Number">3187</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PRU BONDY_de LATTRE de TASSIGNY</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bondy</Data></Cell>
+    <Cell><Data ss:Type="Number">93010</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">4,4</Data></Cell>
+    <Cell><Data ss:Type="String">1,7</Data></Cell>
+    <Cell><Data ss:Type="String">2030</Data></Cell>
+    <Cell><Data ss:Type="String">790</Data></Cell>
+    <Cell><Data ss:Type="Number">59951</Data></Cell>
+    <Cell><Data ss:Type="Number">748</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mare Huguet</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Rosny-sous-Bois</Data></Cell>
+    <Cell><Data ss:Type="Number">93064</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">1200</Data></Cell>
+    <Cell><Data ss:Type="String">380</Data></Cell>
+    <Cell><Data ss:Type="Number">34000</Data></Cell>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quartier de La Muette</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Garges-lès-Gonesse</Data></Cell>
+    <Cell><Data ss:Type="Number">95268</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">19</Data></Cell>
+    <Cell><Data ss:Type="String">2,85</Data></Cell>
+    <Cell><Data ss:Type="String">4000</Data></Cell>
+    <Cell><Data ss:Type="String">1400</Data></Cell>
+    <Cell><Data ss:Type="Number">57552</Data></Cell>
+    <Cell><Data ss:Type="Number">972</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Résidence Frassati</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Courtry</Data></Cell>
+    <Cell><Data ss:Type="Number">77139</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">0,5</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">21</Data></Cell>
+    <Cell><Data ss:Type="Number">1624</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier des Mézereaux</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Melun</Data></Cell>
+    <Cell><Data ss:Type="Number">77288</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">23</Data></Cell>
+    <Cell><Data ss:Type="String">11</Data></Cell>
+    <Cell><Data ss:Type="String">5000</Data></Cell>
+    <Cell><Data ss:Type="String">500</Data></Cell>
+    <Cell><Data ss:Type="Number">57600</Data></Cell>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ecoquartier de Montévrain</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Montévrain</Data></Cell>
+    <Cell><Data ss:Type="Number">77307</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Ville nouvelle</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">153</Data></Cell>
+    <Cell><Data ss:Type="String">56,5</Data></Cell>
+    <Cell><Data ss:Type="String">10000</Data></Cell>
+    <Cell><Data ss:Type="String">3335</Data></Cell>
+    <Cell><Data ss:Type="Number">206200</Data></Cell>
+    <Cell><Data ss:Type="Number">933</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CANDIDAT_LABEL_Clause-Bois Badeau</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Brétigny-sur-Orge</Data></Cell>
+    <Cell><Data ss:Type="Number">91103</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Extension  + 6 Ha de renouvellement urbain</Data></Cell>
+    <Cell><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">42</Data></Cell>
+    <Cell><Data ss:Type="String">21</Data></Cell>
+    <Cell><Data ss:Type="String">4000</Data></Cell>
+    <Cell><Data ss:Type="String">2400</Data></Cell>
+    <Cell><Data ss:Type="Number">182600</Data></Cell>
+    <Cell><Data ss:Type="Number">800</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quartier du Bois Sauvage</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Évry</Data></Cell>
+    <Cell><Data ss:Type="Number">91228</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">ANRU</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">17</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">220</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zac Chandon République</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Gennevilliers</Data></Cell>
+    <Cell><Data ss:Type="Number">92036</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">9</Data></Cell>
+    <Cell><Data ss:Type="String">0,65</Data></Cell>
+    <Cell><Data ss:Type="String">4320</Data></Cell>
+    <Cell><Data ss:Type="String">1728</Data></Cell>
+    <Cell><Data ss:Type="Number">129300</Data></Cell>
+    <Cell><Data ss:Type="Number">866</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC Dolet Brossolette</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Malakoff</Data></Cell>
+    <Cell><Data ss:Type="Number">92046</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">5753</Data></Cell>
+    <Cell><Data ss:Type="String">850</Data></Cell>
+    <Cell><Data ss:Type="String">492</Data></Cell>
+    <Cell><Data ss:Type="Number">25800</Data></Cell>
+    <Cell><Data ss:Type="Number">297</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Carnot Gambetta</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Suresnes</Data></Cell>
+    <Cell><Data ss:Type="Number">92073</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">52</Data></Cell>
+    <Cell><Data ss:Type="String">0,32</Data></Cell>
+    <Cell><Data ss:Type="String">10112</Data></Cell>
+    <Cell><Data ss:Type="String">748</Data></Cell>
+    <Cell><Data ss:Type="Number">46000</Data></Cell>
+    <Cell><Data ss:Type="Number">178</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Docks de Saint Ouen</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Saint-Ouen</Data></Cell>
+    <Cell><Data ss:Type="Number">93070</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">100</Data></Cell>
+    <Cell><Data ss:Type="String">30</Data></Cell>
+    <Cell><Data ss:Type="String">13200</Data></Cell>
+    <Cell><Data ss:Type="String">5730</Data></Cell>
+    <Cell><Data ss:Type="Number">430000</Data></Cell>
+    <Cell><Data ss:Type="Number">2300</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CANDIDAT_LABEL_Docks de Saint-Ouen - Première phase opérationnelle</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Saint-Ouen</Data></Cell>
+    <Cell><Data ss:Type="Number">93070</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">23,9</Data></Cell>
+    <Cell><Data ss:Type="String">18,8</Data></Cell>
+    <Cell><Data ss:Type="String">4650</Data></Cell>
+    <Cell><Data ss:Type="String">2022</Data></Cell>
+    <Cell><Data ss:Type="Number">140936</Data></Cell>
+    <Cell><Data ss:Type="Number">938</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zac des Bois Rochefort</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Cormeilles-en-Parisis</Data></Cell>
+    <Cell><Data ss:Type="Number">95176</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-D'OISE (95)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">100</Data></Cell>
+    <Cell><Data ss:Type="String">20</Data></Cell>
+    <Cell><Data ss:Type="String">4500</Data></Cell>
+    <Cell><Data ss:Type="String">1360</Data></Cell>
+    <Cell><Data ss:Type="Number">205000</Data></Cell>
+    <Cell><Data ss:Type="Number">340</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Résidence des Fauvettes</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Courtry</Data></Cell>
+    <Cell><Data ss:Type="Number">77139</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-ET-MARNE (77)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habitat</Data></Cell>
+    <Cell><Data ss:Type="String">0,1</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">6</Data></Cell>
+    <Cell><Data ss:Type="Number">444</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">Permis de construire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC du quartier de l'Ecole polytechnique</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Palaiseau</Data></Cell>
+    <Cell><Data ss:Type="Number">91477</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Extension urbaine</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">232</Data></Cell>
+    <Cell><Data ss:Type="String">107</Data></Cell>
+    <Cell><Data ss:Type="String">10300</Data></Cell>
+    <Cell><Data ss:Type="String">5600</Data></Cell>
+    <Cell><Data ss:Type="Number">278000</Data></Cell>
+    <Cell><Data ss:Type="Number">1530</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Les Docks de Ris</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Ris-Orangis</Data></Cell>
+    <Cell><Data ss:Type="Number">91521</Data></Cell>
+    <Cell><Data ss:Type="String">ESSONNE (91)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">18</Data></Cell>
+    <Cell><Data ss:Type="String">13</Data></Cell>
+    <Cell><Data ss:Type="String">2300</Data></Cell>
+    <Cell><Data ss:Type="String">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">68500</Data></Cell>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CANDIDAT_LABEL_Ecoquartier des Bords de Seine</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Issy-les-Moulineaux</Data></Cell>
+    <Cell><Data ss:Type="Number">92040</Data></Cell>
+    <Cell><Data ss:Type="String">HAUTS-DE-SEINE (92)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">Le projet consiste en la reconversion des friches urbaines en un quartier à vocation mixte.</Data></Cell>
+    <Cell><Data ss:Type="String">Autre</Data></Cell>
+    <Cell><Data ss:Type="String">3,5</Data></Cell>
+    <Cell><Data ss:Type="String">1,46</Data></Cell>
+    <Cell><Data ss:Type="String">1700</Data></Cell>
+    <Cell><Data ss:Type="String">782</Data></Cell>
+    <Cell><Data ss:Type="Number">48400</Data></Cell>
+    <Cell><Data ss:Type="Number">169</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Écoquartier du canal</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Bondy</Data></Cell>
+    <Cell><Data ss:Type="Number">93010</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Centre</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">9</Data></Cell>
+    <Cell><Data ss:Type="String">1,85</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">1132</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">340</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Universeine</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Saint-Denis</Data></Cell>
+    <Cell><Data ss:Type="Number">93066</Data></Cell>
+    <Cell><Data ss:Type="String">SEINE-SAINT-DENIS (93)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">6,4</Data></Cell>
+    <Cell><Data ss:Type="String">2,8</Data></Cell>
+    <Cell><Data ss:Type="String">800</Data></Cell>
+    <Cell><Data ss:Type="String">340</Data></Cell>
+    <Cell><Data ss:Type="Number">28500</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Engagé</Data></Cell>
+    <Cell><Data ss:Type="String">Permis d'aménager</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ivry Confluences</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Ivry-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">94041</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">145</Data></Cell>
+    <Cell><Data ss:Type="String">46</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">7900</Data></Cell>
+    <Cell><Data ss:Type="Number">520000</Data></Cell>
+    <Cell><Data ss:Type="Number">2900</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rouget de l'Isle</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Vitry-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">94081</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Faubourg</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">9,1</Data></Cell>
+    <Cell><Data ss:Type="String">2,64</Data></Cell>
+    <Cell><Data ss:Type="String">1900</Data></Cell>
+    <Cell><Data ss:Type="String">870</Data></Cell>
+    <Cell><Data ss:Type="Number">65000</Data></Cell>
+    <Cell><Data ss:Type="Number">360</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAC_GARE_ARDOINES</Data></Cell>
+    <Cell><Data ss:Type="String">Commune appartenant à un grand pôle (10 000 emplois ou plus)</Data></Cell>
+    <Cell><Data ss:Type="String">Vitry-sur-Seine</Data></Cell>
+    <Cell><Data ss:Type="Number">94081</Data></Cell>
+    <Cell><Data ss:Type="String">VAL-DE-MARNE (94)</Data></Cell>
+    <Cell><Data ss:Type="String">Ile de France</Data></Cell>
+    <Cell><Data ss:Type="String">Périphérie</Data></Cell>
+    <Cell><Data ss:Type="String">Renouvellement urbain</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mixte</Data></Cell>
+    <Cell><Data ss:Type="String">49</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">8000</Data></Cell>
+    <Cell><Data ss:Type="String">3200</Data></Cell>
+    <Cell><Data ss:Type="Number">224000</Data></Cell>
+    <Cell><Data ss:Type="Number">1280</Data></Cell>
+    <Cell><Data ss:Type="String">NON</Data></Cell>
+    <Cell><Data ss:Type="String">ZAC</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>7</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>22</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

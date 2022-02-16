@@ -1,0 +1,2976 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="12" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="Short Date"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="363" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="106.5"/>
+   <Row ss:Height="15.75" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Exercice</Data></Cell>
+    <Cell><Data ss:Type="String">Nom Collectivité</Data></Cell>
+    <Cell><Data ss:Type="String">Libellé Fonction</Data></Cell>
+    <Cell><Data ss:Type="String">Libellé sous-fonction</Data></Cell>
+    <Cell><Data ss:Type="String">Bénéficiaire</Data></Cell>
+    <Cell><Data ss:Type="String">Budget de l'année</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Aides Bretagne</Data></Cell>
+    <Cell><Data ss:Type="Number">9000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">AMSIC  (Association Maison des Squares Solidarité Interculturelle Citoyenneté )</Data></Cell>
+    <Cell><Data ss:Type="Number">202587</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">APRAS - PROVISION POUR PROJETS EXPERIMENTAUX</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">Arpèges - Formation musicale</Data></Cell>
+    <Cell><Data ss:Type="Number">10793</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">ARPELS</Data></Cell>
+    <Cell><Data ss:Type="Number">2600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">ASFAD MULTI ACCUEIL M'TI MOUN</Data></Cell>
+    <Cell><Data ss:Type="Number">208000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Aides aux personnes âgées</Data></Cell>
+    <Cell><Data ss:Type="String">Association Bistrot Mémoire</Data></Cell>
+    <Cell><Data ss:Type="Number">5500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">Association CIME Cité et Médiation</Data></Cell>
+    <Cell><Data ss:Type="Number">35000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Association de jumelage coopération Rennes-Plateau Dogon (AJCRPD)</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Association des Compagnons Bâtisseurs (1 poste FONJEP)</Data></Cell>
+    <Cell><Data ss:Type="Number">41000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Association des Retraités Force Ouvrière de Rennes (FO)</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">ASSOCIATION ENJEUX D'ENFANTS</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Association La Boule d'or (charges)</Data></Cell>
+    <Cell><Data ss:Type="Number">176</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Association Régionale de Médecine du Sport</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Association Rennaise des Espaces Jeux (AREJ)</Data></Cell>
+    <Cell><Data ss:Type="Number">21560</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Association Rennes-Jinan</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">Association Trans Musicales</Data></Cell>
+    <Cell><Data ss:Type="Number">985200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Au Clair de la Lune</Data></Cell>
+    <Cell><Data ss:Type="Number">55000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Bruit de Lire - Goncourt des lycéens</Data></Cell>
+    <Cell><Data ss:Type="Number">26000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">BUG - CRVA</Data></Cell>
+    <Cell><Data ss:Type="Number">647021</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">CAF - Relais Assistantes Maternelles</Data></Cell>
+    <Cell><Data ss:Type="Number">28000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Culturel Avicenne de Rennes</Data></Cell>
+    <Cell><Data ss:Type="Number">59722</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">CENTRE CULTUREL COLOMBIER - PHAKT</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Centre d'Information sur les Droits des Femmes et des Familles d'Ille-et-Vilaine (CIDFF 35)</Data></Cell>
+    <Cell><Data ss:Type="Number">27093</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Régional d'Information Jeunesse Bretagne (CRIJB)</Data></Cell>
+    <Cell><Data ss:Type="Number">31800</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Régional d'Information Jeunesse Bretagne (CRIJB) - fonctionnement pôle multimédia</Data></Cell>
+    <Cell><Data ss:Type="Number">6300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Centre socio-culturel Les Longs Prés (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Cercle Paul Bert (CPB)  - Fonctionnement pôle multimédia (Landrel, Ginguené, Nord-Ouest)</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Clair Obscur</Data></Cell>
+    <Cell><Data ss:Type="Number">188441</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Handicap et accessibilité</Data></Cell>
+    <Cell><Data ss:Type="String">COLLECTIF HANDICAP 35</Data></Cell>
+    <Cell><Data ss:Type="Number">23000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Comité jumelage  Rennes-Erlangen</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement urbain - opérations directes</Data></Cell>
+    <Cell><Data ss:Type="String">Compagnie des commisseurs enquêteurs</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Logement</Data></Cell>
+    <Cell><Data ss:Type="String">Aides au logement social</Data></Cell>
+    <Cell><Data ss:Type="String">Confédération Nationale du Logement (CNL)</Data></Cell>
+    <Cell><Data ss:Type="Number">15876</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">Danse à tous les étages. Coursives</Data></Cell>
+    <Cell><Data ss:Type="Number">25500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">DOOINIT</Data></Cell>
+    <Cell><Data ss:Type="Number">50000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Et si on se parlait</Data></Cell>
+    <Cell><Data ss:Type="Number">9422</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Fédération Française de Canoë Kayak</Data></Cell>
+    <Cell><Data ss:Type="Number">394</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Fédération Syndicale Unitaire (FSU)</Data></Cell>
+    <Cell><Data ss:Type="Number">39541</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">FGDON 35</Data></Cell>
+    <Cell><Data ss:Type="Number">13000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">FRANCE BENEVOLAT</Data></Cell>
+    <Cell><Data ss:Type="Number">2866</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">I M FROM RENNES</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Institut Franco Américain (IFA)</Data></Cell>
+    <Cell><Data ss:Type="Number">100771</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Kayak Club Rennais</Data></Cell>
+    <Cell><Data ss:Type="Number">978</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Les Trois Maisons</Data></Cell>
+    <Cell><Data ss:Type="Number">163961</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Liberté couleurs</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Ligue de l'Enseignement-FAL 35 - Rencontres Nationales de l'Education</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Consommation - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">MCE CENTRE DE DOCUMENTATION</Data></Cell>
+    <Cell><Data ss:Type="Number">8160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">MJC Antipode Cleunay</Data></Cell>
+    <Cell><Data ss:Type="Number">185478</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MJC BREQUIGNY FONCT POLE MULTIMEDIA</Data></Cell>
+    <Cell><Data ss:Type="Number">8000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">MJC Bréquigny Formation musicale</Data></Cell>
+    <Cell><Data ss:Type="Number">9000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Activités théâtrales</Data></Cell>
+    <Cell><Data ss:Type="String">MJC La Paillette</Data></Cell>
+    <Cell><Data ss:Type="Number">401239</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MJC Le Grand Cordel (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">8000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MOUVEMENT ASSOCIATIF RENNAIS</Data></Cell>
+    <Cell><Data ss:Type="Number">10197</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">PARENBOUGE MULTI ACCUEIL CARRE P'TITS RENNAIS</Data></Cell>
+    <Cell><Data ss:Type="Number">123750</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Parenbouge (projet Parendom)</Data></Cell>
+    <Cell><Data ss:Type="Number">70000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Poupenn</Data></Cell>
+    <Cell><Data ss:Type="Number">77000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">PROV INNOVATION EXPERIMENTATION ARTISTIQUE SOCIALE</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">ACCES AUX LOISIRS POUR TOUS : DISPOSITIF SORTIR</Data></Cell>
+    <Cell><Data ss:Type="String">Provision accès à la Culture et aux Loisirs</Data></Cell>
+    <Cell><Data ss:Type="Number">410000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Handicap et accessibilité</Data></Cell>
+    <Cell><Data ss:Type="String">Provision actions en faveur des personnes handicapés</Data></Cell>
+    <Cell><Data ss:Type="Number">18389</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Aide aux Pays en développement</Data></Cell>
+    <Cell><Data ss:Type="Number">234876</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Commerce - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Animation commerciale</Data></Cell>
+    <Cell><Data ss:Type="Number">110188</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION EDUCATION ARTISTIQUE ET CULTURELLE</Data></Cell>
+    <Cell><Data ss:Type="Number">50000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION ENGAGEMENT CITOYEN</Data></Cell>
+    <Cell><Data ss:Type="Number">21300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION ESPACES JEUX CHARTE QUALITE</Data></Cell>
+    <Cell><Data ss:Type="Number">12850</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Commerce - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Manifestation Arts du Feu</Data></Cell>
+    <Cell><Data ss:Type="Number">6500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION MANIFESTATION ND4J</Data></Cell>
+    <Cell><Data ss:Type="Number">170200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Secteur sportif - manif.coorganisées</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION MANIFESTATIONS EQUESTRES</Data></Cell>
+    <Cell><Data ss:Type="Number">2673</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Information Communication</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION POUR AIDE AUX FESTIVALS</Data></Cell>
+    <Cell><Data ss:Type="Number">130000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour animation socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Politique de la Ville</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour diverses actions</Data></Cell>
+    <Cell><Data ss:Type="Number">175130</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour équipement vie associative de quartier</Data></Cell>
+    <Cell><Data ss:Type="Number">35161</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Secteur sportif - manif.coorganisées</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION POUR EVENEMENTIEL SPORTIF</Data></Cell>
+    <Cell><Data ss:Type="Number">251952</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Relations Publiques</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour les associations d'anciens combattants et victimes de guerre</Data></Cell>
+    <Cell><Data ss:Type="Number">11000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour relations internationales</Data></Cell>
+    <Cell><Data ss:Type="Number">53741</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION POUR SPORT HAUT NIVEAU</Data></Cell>
+    <Cell><Data ss:Type="Number">277400</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Information Communication</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Soutien à l'information</Data></Cell>
+    <Cell><Data ss:Type="Number">105000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">Provision Soutien pédagogique pratique art amateur</Data></Cell>
+    <Cell><Data ss:Type="Number">1420</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Rennes Etudiants Club Volley-ball Amateur  (REC Volley) (animateur)</Data></Cell>
+    <Cell><Data ss:Type="Number">32765</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur de l'enfance</Data></Cell>
+    <Cell><Data ss:Type="String">Scouts et Guides de France</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Théâtre National de Bretagne</Data></Cell>
+    <Cell><Data ss:Type="String">SMEL Théâtre National de Bretagne : Ecole d'Art Dramatique (TNB)</Data></Cell>
+    <Cell><Data ss:Type="Number">280000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Théâtre National de Bretagne</Data></Cell>
+    <Cell><Data ss:Type="String">SMEL Théâtre National de Bretagne (TNB)</Data></Cell>
+    <Cell><Data ss:Type="Number">3021150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Ty Bugalé</Data></Cell>
+    <Cell><Data ss:Type="Number">100000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Union Départementale des Associations de Parents d'Elèves de l'Enseignement Libre (APEL)</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Union Locale des Retraités CFDT du Pays de Rennes (ULR)</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">3 REGARDS LEO LAGRANGE</Data></Cell>
+    <Cell><Data ss:Type="Number">439204</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">AFEV CONTRAT DE MISSION</Data></Cell>
+    <Cell><Data ss:Type="Number">36000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Centres sociaux</Data></Cell>
+    <Cell><Data ss:Type="String">ARCS - Animation Centre Ville</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Bibliothèques</Data></Cell>
+    <Cell><Data ss:Type="String">AS. LIRE ET DELIRE-ESPACE LECTURE CARREFOUR 18 -</Data></Cell>
+    <Cell><Data ss:Type="Number">27000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Information Communication</Data></Cell>
+    <Cell><Data ss:Type="String">Association BUG - Gestion WIKI Rennes</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Association Départementale des Pupilles de l'Enseignement Public d'Ille et Vilaine(ADPEP 35)</Data></Cell>
+    <Cell><Data ss:Type="Number">7255</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Commerce - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">Association des commerçants non sédentaires pour la promotion des marchés d'Ille-et-Vilaine</Data></Cell>
+    <Cell><Data ss:Type="Number">27775</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Handicap et accessibilité</Data></Cell>
+    <Cell><Data ss:Type="String">Association des paralysés de France (APF) : service social</Data></Cell>
+    <Cell><Data ss:Type="Number">13000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Association Hexagone - Micro équipement Haut-Blosne</Data></Cell>
+    <Cell><Data ss:Type="Number">8570</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Association jumelage  Rennes-Brno</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Association jumelage  Rennes-Poznan</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Association jumelage  Rennes-Sétif</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Association Loisirs Pluriel</Data></Cell>
+    <Cell><Data ss:Type="Number">29100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Association Nationale de Prévention en Alcoologie et en Addictologie d'Ille-et-Vilaine (ANPAA)  (ex. CDPA)</Data></Cell>
+    <Cell><Data ss:Type="Number">8000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Aides aux personnes âgées</Data></Cell>
+    <Cell><Data ss:Type="String">Association pour l'Université du Temps Libre (UTL)</Data></Cell>
+    <Cell><Data ss:Type="Number">5200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Circulation voirie</Data></Cell>
+    <Cell><Data ss:Type="String">Association Rayons d'action</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Association  Rennes-Rochester</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">AUBERGE DE JEUNESSE</Data></Cell>
+    <Cell><Data ss:Type="Number">5411</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Cadets de Bretagne (rue d'Antrain)</Data></Cell>
+    <Cell><Data ss:Type="Number">116269</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">CENTRE CULTUREL BOUDDHIQUE</Data></Cell>
+    <Cell><Data ss:Type="Number">15527</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Franco Allemand (CEFA)</Data></Cell>
+    <Cell><Data ss:Type="Number">21305</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Gay Lesbien Bi et trans</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Centre socio-culturel Les Longs Prés</Data></Cell>
+    <Cell><Data ss:Type="Number">228984</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Activités théâtrales</Data></Cell>
+    <Cell><Data ss:Type="String">Cercle Paul Bert - Théâtre du Cercle</Data></Cell>
+    <Cell><Data ss:Type="Number">59000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Comité jumelage  Rennes-Almaty</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Comité jumelage  Rennes-Exeter</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Commune Libre Sainte-Thérèse (M.Q. Ste Thérèse) (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Compagnie les Archers</Data></Cell>
+    <Cell><Data ss:Type="Number">997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Logement</Data></Cell>
+    <Cell><Data ss:Type="String">Aides au logement social</Data></Cell>
+    <Cell><Data ss:Type="String">Consommation Logement et Cadre de Vie (CLCV)</Data></Cell>
+    <Cell><Data ss:Type="Number">37120</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">CRIDEV - Aide aux Pays en développement</Data></Cell>
+    <Cell><Data ss:Type="Number">25245</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement public 1er degré - maternel</Data></Cell>
+    <Cell><Data ss:Type="String">Dotations annuelles aux associations d'écoles pour les petites fournitures</Data></Cell>
+    <Cell><Data ss:Type="Number">23500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">Ensemble Musical des Cheminots Rennais</Data></Cell>
+    <Cell><Data ss:Type="Number">2732</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">GIP CAFES CULTURELS</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Groupement Rennais Pédagogique d'Animation Sociale (GRPAS)</Data></Cell>
+    <Cell><Data ss:Type="Number">26500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Institut Français (ex Culture France)</Data></Cell>
+    <Cell><Data ss:Type="Number">28000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">L'Antre Deux</Data></Cell>
+    <Cell><Data ss:Type="Number">12100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">LEO LAGRANGE OUEST - PHAKT</Data></Cell>
+    <Cell><Data ss:Type="Number">107487</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur de l'enfance</Data></Cell>
+    <Cell><Data ss:Type="String">Les Petits Débrouillards de Bretagne</Data></Cell>
+    <Cell><Data ss:Type="Number">29000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Maison de Quartier de la Touche</Data></Cell>
+    <Cell><Data ss:Type="Number">292961</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">MAISON DES ANCIENS COMBATTANTS</Data></Cell>
+    <Cell><Data ss:Type="Number">8207</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Maison Internationale de Rennes (MIR)</Data></Cell>
+    <Cell><Data ss:Type="Number">312949</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Espaces verts et jardins</Data></Cell>
+    <Cell><Data ss:Type="String">MCE - NICHOIRS CITOYENS</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">MERLINPINPIN Lieu d'Accueil Enfants Parents</Data></Cell>
+    <Cell><Data ss:Type="Number">7060</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">MERLINPINPIN - MULTI ACCUEIL LES PETITS MERLINS</Data></Cell>
+    <Cell><Data ss:Type="Number">144000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MJC Antipode-Cleunay</Data></Cell>
+    <Cell><Data ss:Type="Number">250757</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MJC Le Grand Cordel</Data></Cell>
+    <Cell><Data ss:Type="Number">264689</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MJC MAISON SUEDE FONCT POLE MULTIMEDIA</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">Mouvances Formation musicale</Data></Cell>
+    <Cell><Data ss:Type="Number">4121</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">MOUVEMENT DE LA PAIX BRETAGNE ET GRAND OUEST</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Aides aux personnes âgées</Data></Cell>
+    <Cell><Data ss:Type="String">Observatoire et Pôle d'Animation des Retraités Rennais (OPAR)</Data></Cell>
+    <Cell><Data ss:Type="Number">176702</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">OCCE - Réseau Réussite Scolaire Bréquigny</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Office public de la langue Bretonne</Data></Cell>
+    <Cell><Data ss:Type="Number">12000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">Orchestre Régional de Bretagne</Data></Cell>
+    <Cell><Data ss:Type="Number">1303000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Pôle France de gymnastique de Rennes</Data></Cell>
+    <Cell><Data ss:Type="Number">32972</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Action Lutte contre les discriminations et accès aux droits</Data></Cell>
+    <Cell><Data ss:Type="Number">9405</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Actions quartiers</Data></Cell>
+    <Cell><Data ss:Type="String">Provision actions quartiers</Data></Cell>
+    <Cell><Data ss:Type="Number">61498</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Provision aide aux syndicats pour matériel et remboursement charges</Data></Cell>
+    <Cell><Data ss:Type="Number">177876</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Provision Bénévolat</Data></Cell>
+    <Cell><Data ss:Type="Number">3200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Commerce - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">Provision Braderie de Rennes</Data></Cell>
+    <Cell><Data ss:Type="Number">38246</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">Provision CLSPD</Data></Cell>
+    <Cell><Data ss:Type="Number">41920</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION DISPOSITIF LES RENNAIS PRENNENT L ART</Data></Cell>
+    <Cell><Data ss:Type="Number">65000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Provision Fonds de fonctionnement et projets (ex. Fonds globaux)</Data></Cell>
+    <Cell><Data ss:Type="Number">408468</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Provision fonds projets écoles</Data></Cell>
+    <Cell><Data ss:Type="Number">170000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur de l'enfance</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION ORGANISATION FETE DU JEU DANS QUARTIERS</Data></Cell>
+    <Cell><Data ss:Type="Number">4300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour actions en faveur des 11/15 ans</Data></Cell>
+    <Cell><Data ss:Type="Number">27000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Actions pour l'environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour associations diverses</Data></Cell>
+    <Cell><Data ss:Type="Number">4300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Circulation voirie</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour diverses actions de sécurité routière</Data></Cell>
+    <Cell><Data ss:Type="Number">38400</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur de l'enfance</Data></Cell>
+    <Cell><Data ss:Type="String">Provision Projets   Actions Educatives Territoires</Data></Cell>
+    <Cell><Data ss:Type="Number">41650</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">REC Rugby</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Rennes Etudiants Club Volley-ball Professionnel (REC Volley Filles Nationale 2)</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Rennes Pôle Associations  (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Secours Catholique</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Skol An Emsav</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Société d'Astronomie de Rennes (SAR)</Data></Cell>
+    <Cell><Data ss:Type="Number">5272</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Stade Rennais Athlétisme</Data></Cell>
+    <Cell><Data ss:Type="Number">34950</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">TOUT ATOUT - Prévention en direction des jeunes</Data></Cell>
+    <Cell><Data ss:Type="Number">4000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Handicap et accessibilité</Data></Cell>
+    <Cell><Data ss:Type="String">Union Régionale des Associations de  Parents et d'Enfants Déficients Auditifs (URAPEDA)</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Union Syndicale des retraités CGT</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">UNIS CITE CONTRAT MISSION</Data></Cell>
+    <Cell><Data ss:Type="Number">12000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Université de Rennes 1 - ASTEP</Data></Cell>
+    <Cell><Data ss:Type="Number">5500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">APRAS POLE ASSOCIATIF MARBAUDAIS</Data></Cell>
+    <Cell><Data ss:Type="Number">2126</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">Association d'Aide aux Victimes d'Infractions Pénales et d'Accès au Droit - SOS Victimes 35</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Association pour la Promotion de l'Action et de l'Animation Sociale (APRAS) (fonctionnement)</Data></Cell>
+    <Cell><Data ss:Type="Number">183000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Centres sociaux</Data></Cell>
+    <Cell><Data ss:Type="String">Association Rennaise des Centres Sociaux (ARCS)</Data></Cell>
+    <Cell><Data ss:Type="Number">2315000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Association Skeudenn Bro Roazhon</Data></Cell>
+    <Cell><Data ss:Type="Number">113500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Association Sportive, Culturelle et Loisirs Jeanne d'Arc</Data></Cell>
+    <Cell><Data ss:Type="Number">111929</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Avenir de Rennes</Data></Cell>
+    <Cell><Data ss:Type="Number">82626</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Banque Alimentaire 35</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Caisse des Ecoles</Data></Cell>
+    <Cell><Data ss:Type="Number">96000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Maitrise énergie</Data></Cell>
+    <Cell><Data ss:Type="String">Clé - ALEC - Agence locale de l'énergie et du climat du pays de Rennes</Data></Cell>
+    <Cell><Data ss:Type="Number">32800</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Handicap et accessibilité</Data></Cell>
+    <Cell><Data ss:Type="String">Club Primevères</Data></Cell>
+    <Cell><Data ss:Type="Number">19000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Comité de Quartier Francisco-Ferrer</Data></Cell>
+    <Cell><Data ss:Type="Number">173884</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">CONFEDERATION PAYSANNE</Data></Cell>
+    <Cell><Data ss:Type="Number">9581</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">Conseil Départemental de l'accès au Droit d'Ille-et-Vilaine (CDAD 35)</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">CPB FORMATION JEUNES ADULTES</Data></Cell>
+    <Cell><Data ss:Type="Number">25000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">CPB - HANDBALL GARCONS</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">CRABE ROUGE EPN (MULTIMEDIA)</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement public 1er  degré - élémentaire</Data></Cell>
+    <Cell><Data ss:Type="String">Dotations annuelles aux associations d'écoles pour les petites fournitures</Data></Cell>
+    <Cell><Data ss:Type="Number">33000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement urbain - opérations directes</Data></Cell>
+    <Cell><Data ss:Type="String">ENSAB</Data></Cell>
+    <Cell><Data ss:Type="Number">7000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Fédération Régionale des MJC</Data></Cell>
+    <Cell><Data ss:Type="Number">257568</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">La Bellangerais : Maison  Quartier Bellangerais</Data></Cell>
+    <Cell><Data ss:Type="Number">234135</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">Le Jardin Moderne (ex Collectif)</Data></Cell>
+    <Cell><Data ss:Type="Number">224017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">LEO LAGRANGE OUEST - COORDINATION</Data></Cell>
+    <Cell><Data ss:Type="Number">77600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Les Ateliers du vent</Data></Cell>
+    <Cell><Data ss:Type="Number">100000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Les Fruits de la Passion</Data></Cell>
+    <Cell><Data ss:Type="Number">70000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Secteur culturel - manif.coorganisées</Data></Cell>
+    <Cell><Data ss:Type="String">Les Tombées de la Nuit (festival)</Data></Cell>
+    <Cell><Data ss:Type="Number">977490</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Les Trois Maisons (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Ligue de Bretagne de Judo</Data></Cell>
+    <Cell><Data ss:Type="Number">28237</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement urbain - opérations directes</Data></Cell>
+    <Cell><Data ss:Type="String">Maison de l'Architecture de Bretagne</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Maison de Quartier de la Touche (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Maison du Cyclisme</Data></Cell>
+    <Cell><Data ss:Type="Number">3184</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Consommation - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">MCE CENTRE ECOLES ENVIRONNEMENT</Data></Cell>
+    <Cell><Data ss:Type="Number">14166</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">MERLINPINPIN - COORDINATION</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MJC Bréquigny (Clôteaux)</Data></Cell>
+    <Cell><Data ss:Type="Number">344379</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">MJC Bréquigny - Festival Jazz à l'Ouest</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">MJC La Paillette Formation musicale</Data></Cell>
+    <Cell><Data ss:Type="Number">3000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Mouvement Aide à Toute Détresse Quart Monde (ATD Quart Monde)- Délégation Régionale pour la Bretagne</Data></Cell>
+    <Cell><Data ss:Type="Number">19500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MQ Villejean FONJEP (1 poste)</Data></Cell>
+    <Cell><Data ss:Type="Number">65899</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">OCCE Réseau de Réussite Scolaire Maurepas</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Office Central de la Coopération à l'Ecole (OCCE) - Classes écologie</Data></Cell>
+    <Cell><Data ss:Type="Number">9900</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">OPTIMA - ACCES AU DROIT - QUARTIERS PRIORITAIRES</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Aides aux personnes âgées</Data></Cell>
+    <Cell><Data ss:Type="String">Provision  Actions en direction des personnes âgées</Data></Cell>
+    <Cell><Data ss:Type="Number">13000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Provision aide aux syndicats pour formation et personnel</Data></Cell>
+    <Cell><Data ss:Type="Number">181131</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">Provision animation présence de rue</Data></Cell>
+    <Cell><Data ss:Type="Number">100732</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION FONDS JEUNESSE ET QUARTIERS PRIORITAIRES</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION JEUNES ADULTES QUARTIERS</Data></Cell>
+    <Cell><Data ss:Type="Number">48000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Maitrise énergie</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour associations diverses</Data></Cell>
+    <Cell><Data ss:Type="Number">41000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Politique de la Ville</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour co-financement poste adultes-relais</Data></Cell>
+    <Cell><Data ss:Type="Number">85343</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour diverses actions liées à la santé, à l'hygiène et à la prévention des risques sanitaires</Data></Cell>
+    <Cell><Data ss:Type="Number">27536</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour Fonds Rennais d'Initiatives Jeunes</Data></Cell>
+    <Cell><Data ss:Type="Number">40000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour les associations participant aux ateliers</Data></Cell>
+    <Cell><Data ss:Type="Number">510000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour soutien aux projets associatifs</Data></Cell>
+    <Cell><Data ss:Type="Number">20420</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION TAM TAM CRIJB</Data></Cell>
+    <Cell><Data ss:Type="Number">43000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Rennes Evasion Nature</Data></Cell>
+    <Cell><Data ss:Type="Number">1368</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Restaurants du Coeur - Les Relais du Coeur d'Ille-et-Vilaine</Data></Cell>
+    <Cell><Data ss:Type="Number">46573</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">RUE DES LIVRES</Data></Cell>
+    <Cell><Data ss:Type="Number">115850</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">Triangle</Data></Cell>
+    <Cell><Data ss:Type="Number">1012844</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Classes de découvertes</Data></Cell>
+    <Cell><Data ss:Type="String">Union Départementale des Associations de Parents d'Elèves de l'Enseignement Libre (APEL)</Data></Cell>
+    <Cell><Data ss:Type="Number">4230</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Union Départementale des Associations Familiales d'Ille-et-Vilaine (UDAF)</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">Union des Associations Interculturelles de Rennes (UAIR)</Data></Cell>
+    <Cell><Data ss:Type="Number">84298</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">40 m cube-Association du Jour</Data></Cell>
+    <Cell><Data ss:Type="Number">48131</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">ADEC - Maison du Théâtre Amateur Formation musicale</Data></Cell>
+    <Cell><Data ss:Type="Number">2500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">APRAS - Pôles associatifs et micro équipement</Data></Cell>
+    <Cell><Data ss:Type="Number">50495</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">ASFAD - poste d'intervenant social au commissariat</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Autres charges de personnel</Data></Cell>
+    <Cell><Data ss:Type="String">ASMR</Data></Cell>
+    <Cell><Data ss:Type="Number">70000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Activités théâtrales</Data></Cell>
+    <Cell><Data ss:Type="String">Association Art Dramatique Expression Culture (ADEC) - Maison du Théâtre Amateur</Data></Cell>
+    <Cell><Data ss:Type="Number">51340</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Association Art Recherche Technique (ART)</Data></Cell>
+    <Cell><Data ss:Type="Number">19902</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">Association Brin de Soleil</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Association des Compagnons Bâtisseurs</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Autres charges de personnel</Data></Cell>
+    <Cell><Data ss:Type="String">Association des Régisseurs de la Ville de Rennes, du CCAS et de Rennes Métropole</Data></Cell>
+    <Cell><Data ss:Type="Number">209</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Association jumelage  Rennes-Shimaï Toshi Sendaï</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Activités théâtrales</Data></Cell>
+    <Cell><Data ss:Type="String">Association Lillico</Data></Cell>
+    <Cell><Data ss:Type="Number">206000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Avant-Première Melba</Data></Cell>
+    <Cell><Data ss:Type="Number">108000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">AY-ROOP</Data></Cell>
+    <Cell><Data ss:Type="Number">53000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Cannelle</Data></Cell>
+    <Cell><Data ss:Type="Number">114000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Commerce - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">Carré Rennais (association des commerçants et artisans réunis rennais)</Data></Cell>
+    <Cell><Data ss:Type="Number">91271</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">CARRE RENNAIS - MULTI ACCUEIL LE CARRE DES PETITS RENNAIS</Data></Cell>
+    <Cell><Data ss:Type="Number">7500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Autres charges de personnel</Data></Cell>
+    <Cell><Data ss:Type="String">CASDEC</Data></Cell>
+    <Cell><Data ss:Type="Number">656802</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Chorégraphique National de Rennes et de Bretagne (CCNRB)</Data></Cell>
+    <Cell><Data ss:Type="Number">479100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Centre communal d'action sociale</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Communal d'Action Sociale (CCAS)</Data></Cell>
+    <Cell><Data ss:Type="Number">12117825</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">Centre de production des Paroles Contemporaines</Data></Cell>
+    <Cell><Data ss:Type="Number">76900</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">Centre Régional d'Information Jeunesse Bretagne (CRIJB)  - fonctionnement</Data></Cell>
+    <Cell><Data ss:Type="Number">542684</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">Cercle Celtique de Rennes</Data></Cell>
+    <Cell><Data ss:Type="Number">64604</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Cercle Paul Bert (CPB) - Fonctionnement</Data></Cell>
+    <Cell><Data ss:Type="Number">2789744</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Comité de Quartier de la Binquenais</Data></Cell>
+    <Cell><Data ss:Type="Number">102031</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Comité  jumelage  Rennes-Cork</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Conseil départemental de protection animale d'Ille-et-Vilaine</Data></Cell>
+    <Cell><Data ss:Type="Number">800</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">CPB VOLLEY FILLES</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Croix Rouge Française</Data></Cell>
+    <Cell><Data ss:Type="Number">31327</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Autres enseignements</Data></Cell>
+    <Cell><Data ss:Type="String">Div Yezh Bro Roazhon (Ass. Parents Elèves pour Enseignement du Breton à l'Ecole Publique)</Data></Cell>
+    <Cell><Data ss:Type="Number">11600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Diwan Bro Roazhon</Data></Cell>
+    <Cell><Data ss:Type="Number">55900</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur de l'enfance</Data></Cell>
+    <Cell><Data ss:Type="String">Eclaireuses et Eclaireurs de France</Data></Cell>
+    <Cell><Data ss:Type="Number">35000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">ECOLE HAUTES ETUDES SANTE PUBLIQUE</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">EPI</Data></Cell>
+    <Cell><Data ss:Type="Number">2695</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Fédération des Conseils de Parents d'Elèves des Ecoles Publiques (FCPE)</Data></Cell>
+    <Cell><Data ss:Type="Number">2818</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Fédération Régionale des Centres Sociaux et Socio-culturels de Bretagne</Data></Cell>
+    <Cell><Data ss:Type="Number">9013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">GRPAS (Groupement Pédagogique d'Animation Sociale)</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Handicap et accessibilité</Data></Cell>
+    <Cell><Data ss:Type="String">Handicap Services 35</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">La Bellangerais : Maison  Quartier Bellangerais (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">LA TOUR D AUVERGNE</Data></Cell>
+    <Cell><Data ss:Type="Number">449676</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">LA TOUR D AUVERGNE FONC POLE MULTIMEDIA</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Le Bon Accueil, Site Expérimental de Pratiques Artistiques (SEPA)</Data></Cell>
+    <Cell><Data ss:Type="Number">25000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">LEO LAGRANGE OUEST - LA BELLANGERAIS</Data></Cell>
+    <Cell><Data ss:Type="Number">113213</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Ligue de l'Enseignement-FAL 35 - Centre ressources info écoles</Data></Cell>
+    <Cell><Data ss:Type="Number">32500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Ligue de l'Enseignement-FAL 35. - Classes de ville</Data></Cell>
+    <Cell><Data ss:Type="Number">7300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Maison de la Poésie</Data></Cell>
+    <Cell><Data ss:Type="Number">60717</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Maison de Quartier Rennes Nord Saint-Martin</Data></Cell>
+    <Cell><Data ss:Type="Number">179993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Maison du Ronceray</Data></Cell>
+    <Cell><Data ss:Type="Number">144284</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Mouvement français pour le Planning Familial</Data></Cell>
+    <Cell><Data ss:Type="Number">19305</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Office de Tourisme de Rennes Métropole -Destination Rennes - Classes de ville</Data></Cell>
+    <Cell><Data ss:Type="Number">7300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Tranquillité publique, prévention de la délinquance</Data></Cell>
+    <Cell><Data ss:Type="String">OPTIMA - MEDIATION A L'ECOLE</Data></Cell>
+    <Cell><Data ss:Type="Number">52000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Parenbouge (crèche Calaïs)</Data></Cell>
+    <Cell><Data ss:Type="Number">42000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Parenbouge (Multi-accueil Croc Mahon)</Data></Cell>
+    <Cell><Data ss:Type="Number">109020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">PAR TOUT ARTISTE</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Petits Potes</Data></Cell>
+    <Cell><Data ss:Type="Number">85000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Aides pour projets à caractère international</Data></Cell>
+    <Cell><Data ss:Type="Number">24621</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur de l'enfance</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Droits de l'enfant</Data></Cell>
+    <Cell><Data ss:Type="Number">16000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION ECONOMIE SOCIALE ET SOLIDAIRE (GEDES)</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">Provision Jeunes en projets</Data></Cell>
+    <Cell><Data ss:Type="Number">55000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION LAICITE</Data></Cell>
+    <Cell><Data ss:Type="Number">15629</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Loisirs d'été pour les jeunes</Data></Cell>
+    <Cell><Data ss:Type="Number">50000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Provision multimédia (formation, fonctionnement nouveaux pôles)</Data></Cell>
+    <Cell><Data ss:Type="Number">36060</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour actions culturelles</Data></Cell>
+    <Cell><Data ss:Type="Number">466550</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour diverses actions en faveur des femmes</Data></Cell>
+    <Cell><Data ss:Type="Number">6630</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Actions pour l'emploi</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour emploi associatif local</Data></Cell>
+    <Cell><Data ss:Type="Number">638752</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour manifestations sportives</Data></Cell>
+    <Cell><Data ss:Type="Number">87000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Régates Rennaises</Data></Cell>
+    <Cell><Data ss:Type="Number">4070</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Rennes Pôle Associations (ex. Rennes Patros Associations)</Data></Cell>
+    <Cell><Data ss:Type="Number">179013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">RENNES VOLLEY 35</Data></Cell>
+    <Cell><Data ss:Type="Number">419189</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Réseau Louis Guilloux</Data></Cell>
+    <Cell><Data ss:Type="Number">18700</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Secours Populaire Français - Fédération Ille et Vilaine</Data></Cell>
+    <Cell><Data ss:Type="Number">16000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Société de Tir La Du Guesclin</Data></Cell>
+    <Cell><Data ss:Type="Number">7991</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">Terre des arts Formation musicale</Data></Cell>
+    <Cell><Data ss:Type="Number">8370</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">TOUR D'AUVERGNE</Data></Cell>
+    <Cell><Data ss:Type="Number">40458</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Union Locale Union Nationale des Syndicats Autonomes (UNSA)</Data></Cell>
+    <Cell><Data ss:Type="Number">41081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Actions quartiers</Data></Cell>
+    <Cell><Data ss:Type="String">VERT LE JARDIN</Data></Cell>
+    <Cell><Data ss:Type="Number">9900</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Vétérinaires pour tous 35</Data></Cell>
+    <Cell><Data ss:Type="Number">3600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">3 PTIT TOUR</Data></Cell>
+    <Cell><Data ss:Type="Number">17000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">3 REGARDS EPN (multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">5000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">3 REGARDS LEO LAGRANGE - HARPE EN JAZZ</Data></Cell>
+    <Cell><Data ss:Type="Number">4650</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">AGE DE LA TORTUE</Data></Cell>
+    <Cell><Data ss:Type="Number">13000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Logement</Data></Cell>
+    <Cell><Data ss:Type="String">Aides au logement social</Data></Cell>
+    <Cell><Data ss:Type="String">AGENCE IMMOBILIERE A VOCATION SOCIALE AIVS</Data></Cell>
+    <Cell><Data ss:Type="Number">3000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Autres charges de personnel</Data></Cell>
+    <Cell><Data ss:Type="String">Amicale des retraités territoriaux</Data></Cell>
+    <Cell><Data ss:Type="Number">3000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">AMSIC  (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">AMSIC (Maison des Squares - halte garderie)</Data></Cell>
+    <Cell><Data ss:Type="Number">1600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">ART NORAC - biennale art contemporain</Data></Cell>
+    <Cell><Data ss:Type="Number">105000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">Association Ar Maure</Data></Cell>
+    <Cell><Data ss:Type="Number">5636</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Association Départementale d'Aide aux Gérants, tuteurs et administrateurs bénévoles (ADAGE)</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Association des Fourneaux Economiques (des écoles privées de Rennes)</Data></Cell>
+    <Cell><Data ss:Type="Number">398500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">Association Europe - Rennes 35</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Aides aux personnes âgées</Data></Cell>
+    <Cell><Data ss:Type="String">Association Média Séniors</Data></Cell>
+    <Cell><Data ss:Type="Number">5200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions en faveur des personnes en difficulté</Data></Cell>
+    <Cell><Data ss:Type="String">Asso pour la Subsistance, l'Entraide et le Partage</Data></Cell>
+    <Cell><Data ss:Type="Number">2031</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">BOURG L EVEQUE</Data></Cell>
+    <Cell><Data ss:Type="Number">39211</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Comité d'Etablissement des Cheminots de Bretagne</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Commune Libre Sainte-Thérèse (M.Q. Ste Thérèse)</Data></Cell>
+    <Cell><Data ss:Type="Number">87532</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions artistiques et culturelles</Data></Cell>
+    <Cell><Data ss:Type="String">COMPTOIR DU DOC</Data></Cell>
+    <Cell><Data ss:Type="Number">42000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">CRECHE BILINGUE NEIZHIG</Data></Cell>
+    <Cell><Data ss:Type="Number">82500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Délégués Départementaux de l'Education Nationale (DDEN) - Fédération d'Ille-et-Vilaine</Data></Cell>
+    <Cell><Data ss:Type="Number">3069</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Dispositif de Soutien aux Tuteurs Familiaux d'Ille-et-Vilaine</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Oeuvres  scolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Diwan Bro Roazhon (Restauration)</Data></Cell>
+    <Cell><Data ss:Type="Number">23850</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">ESPOIR ET ENTRAIDE SCOLAIRE CONTRAT DE MISSION</Data></Cell>
+    <Cell><Data ss:Type="Number">16000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">FAL 35 Accompagnement à la scolarité</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">FONJEP (2 postes)MJC</Data></Cell>
+    <Cell><Data ss:Type="Number">139488</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Handisports Rennes Club</Data></Cell>
+    <Cell><Data ss:Type="Number">6617</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Aménagement et service urbains, environnement</Data></Cell>
+    <Cell><Data ss:Type="String">Politique de la Ville</Data></Cell>
+    <Cell><Data ss:Type="String">LANGUE ET COM</Data></Cell>
+    <Cell><Data ss:Type="Number">12000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sécurité et salubrité publiques</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de protection civile</Data></Cell>
+    <Cell><Data ss:Type="String">La Prévention Routière</Data></Cell>
+    <Cell><Data ss:Type="Number">1470</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">LE CRABE ROUGE</Data></Cell>
+    <Cell><Data ss:Type="Number">78051</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">LEO LAGRANGE OUEST - 3 REGARDS</Data></Cell>
+    <Cell><Data ss:Type="Number">122415</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">Ligue de l'Enseignement-FAL 35  : fonctionnement</Data></Cell>
+    <Cell><Data ss:Type="Number">127680</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Actions de prévention sanitaire</Data></Cell>
+    <Cell><Data ss:Type="String">Maison Associative de la Santé (MAS)</Data></Cell>
+    <Cell><Data ss:Type="Number">107197</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Consommation - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">Maison de la Consommation et de l'Environnement (MCE) et Centre Local d'Information sur les prix (CLIP)</Data></Cell>
+    <Cell><Data ss:Type="Number">170735</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Jumelages et Relations Internationales</Data></Cell>
+    <Cell><Data ss:Type="String">MAISON DE L'EUROPE DE RENNES ET DE HAUTE BRETAGNE</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Action économique</Data></Cell>
+    <Cell><Data ss:Type="String">Consommation - diverses actions</Data></Cell>
+    <Cell><Data ss:Type="String">MCE - Commission du réglement des litiges de la consommation</Data></Cell>
+    <Cell><Data ss:Type="Number">9272</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">CRR - Musiques, Danses, Théâtre</Data></Cell>
+    <Cell><Data ss:Type="String">MJC Antipode Cleunay - Formation musicale</Data></Cell>
+    <Cell><Data ss:Type="Number">2500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">MJC MAISON DE SUEDE</Data></Cell>
+    <Cell><Data ss:Type="Number">200750</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">OCCE Réseau de Réussite Scolaire Rennes-Sud</Data></Cell>
+    <Cell><Data ss:Type="Number">3000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Enseignement et formation</Data></Cell>
+    <Cell><Data ss:Type="String">Activités éducatives périscolaires</Data></Cell>
+    <Cell><Data ss:Type="String">OCCE Réseau de Réussite Scolaire Villejean</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">PARENBOUGE ENFANTAISY</Data></Cell>
+    <Cell><Data ss:Type="Number">42000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur de l'enfance</Data></Cell>
+    <Cell><Data ss:Type="String">PEP 35 - CENTRE ANGELE VANNIER</Data></Cell>
+    <Cell><Data ss:Type="Number">23200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">PHAKT L. LAGRANGE</Data></Cell>
+    <Cell><Data ss:Type="Number">123668</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Provision - Aides aux clubs et animations</Data></Cell>
+    <Cell><Data ss:Type="Number">1257774</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Egalité des droits et diversité</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION DIVERSITE CULTURELLE SOUTIEN ASSOCIATION</Data></Cell>
+    <Cell><Data ss:Type="Number">32620</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">PROVISION OBSERVATION ET EVALUATION VIE ASSOCIATIVE</Data></Cell>
+    <Cell><Data ss:Type="Number">9000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour diverses actions sociales</Data></Cell>
+    <Cell><Data ss:Type="Number">14000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Autres actions en faveur des jeunes</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour projets étudiants</Data></Cell>
+    <Cell><Data ss:Type="Number">32000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Provision pour projets innovants Petite Enfance</Data></Cell>
+    <Cell><Data ss:Type="Number">3963</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Salles culturelles en régie</Data></Cell>
+    <Cell><Data ss:Type="String">Provision salle Guy Ropartz</Data></Cell>
+    <Cell><Data ss:Type="Number">110000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">REC Aviron</Data></Cell>
+    <Cell><Data ss:Type="Number">790</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Rencontre et Culture - Maison Quartier Villejean</Data></Cell>
+    <Cell><Data ss:Type="Number">730195</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Action socio-éducative</Data></Cell>
+    <Cell><Data ss:Type="String">Rencontre et Culture - Maison Quartier Villejean (fonctionnement pôle multimédia)</Data></Cell>
+    <Cell><Data ss:Type="Number">8000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Services généraux des administrations publiques locales</Data></Cell>
+    <Cell><Data ss:Type="String">Information Communication</Data></Cell>
+    <Cell><Data ss:Type="String">Rennes Cité Média TV Rennes (RCM)</Data></Cell>
+    <Cell><Data ss:Type="Number">880000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">RESERVOIR DANSE (EX COLLECTIF DANSE)</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">STADE RENNAIS RUGBY</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Interventions sociales et santé</Data></Cell>
+    <Cell><Data ss:Type="String">Autres interventions  sociales</Data></Cell>
+    <Cell><Data ss:Type="String">SUD</Data></Cell>
+    <Cell><Data ss:Type="Number">7312</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Activités théâtrales</Data></Cell>
+    <Cell><Data ss:Type="String">Théâtre du Pré Perché - Péniche spectacle</Data></Cell>
+    <Cell><Data ss:Type="Number">68000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Culture</Data></Cell>
+    <Cell><Data ss:Type="String">Expression musicale, lyrique et chorégraphique</Data></Cell>
+    <Cell><Data ss:Type="String">TOUT ATOUT</Data></Cell>
+    <Cell><Data ss:Type="Number">25000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports et jeunesse</Data></Cell>
+    <Cell><Data ss:Type="String">Animation sportive</Data></Cell>
+    <Cell><Data ss:Type="String">Union Rennes Basket</Data></Cell>
+    <Cell><Data ss:Type="Number">150000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Ville de Rennes</Data></Cell>
+    <Cell><Data ss:Type="String">Famille</Data></Cell>
+    <Cell><Data ss:Type="String">Autres crèches</Data></Cell>
+    <Cell><Data ss:Type="String">Vivre aux Longschamps (halte garderie Bébébul)</Data></Cell>
+    <Cell><Data ss:Type="Number">13000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>6</ActiveCol>
+     <RangeSelection>C7</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
